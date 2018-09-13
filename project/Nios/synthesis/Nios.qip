@@ -2,7 +2,7 @@ set_global_assignment -entity "Nios" -library "Nios" -name IP_TOOL_NAME "Qsys"
 set_global_assignment -entity "Nios" -library "Nios" -name IP_TOOL_VERSION "13.1"
 set_global_assignment -entity "Nios" -library "Nios" -name IP_TOOL_ENV "Qsys"
 set_global_assignment -library "Nios" -name SOPCINFO_FILE [file join $::quartus(qip_path) "../../Nios.sopcinfo"]
-set_global_assignment -entity "Nios" -library "Nios" -name SLD_INFO "QSYS_NAME Nios HAS_SOPCINFO 1 GENERATION_ID 1536842561"
+set_global_assignment -entity "Nios" -library "Nios" -name SLD_INFO "QSYS_NAME Nios HAS_SOPCINFO 1 GENERATION_ID 1536880674"
 set_global_assignment -library "Nios" -name MISC_FILE [file join $::quartus(qip_path) "../../Nios.cmp"]
 set_global_assignment -library "Nios" -name SLD_FILE [file join $::quartus(qip_path) "Nios.regmap"]
 set_global_assignment -library "Nios" -name SLD_FILE [file join $::quartus(qip_path) "Nios.debuginfo"]
@@ -37,6 +37,8 @@ set_global_assignment -library "Nios" -name SYSTEMVERILOG_FILE [file join $::qua
 set_global_assignment -library "Nios" -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "submodules/altera_merlin_master_agent.sv"]
 set_global_assignment -library "Nios" -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "submodules/altera_merlin_slave_translator.sv"]
 set_global_assignment -library "Nios" -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "submodules/altera_merlin_master_translator.sv"]
+set_global_assignment -library "Nios" -name VERILOG_FILE [file join $::quartus(qip_path) "submodules/Nios_pushbuton.v"]
+set_global_assignment -library "Nios" -name VERILOG_FILE [file join $::quartus(qip_path) "submodules/Nios_led.v"]
 set_global_assignment -library "Nios" -name VERILOG_FILE [file join $::quartus(qip_path) "submodules/Nios_Jtag.v"]
 set_global_assignment -library "Nios" -name SOURCE_FILE [file join $::quartus(qip_path) "submodules/Nios_Nios.ocp"]
 set_global_assignment -library "Nios" -name SDC_FILE [file join $::quartus(qip_path) "submodules/Nios_Nios.sdc"]
@@ -119,6 +121,12 @@ set_global_assignment -entity "altera_merlin_slave_translator" -library "Nios" -
 set_global_assignment -entity "altera_merlin_master_translator" -library "Nios" -name IP_TOOL_NAME "altera_merlin_master_translator"
 set_global_assignment -entity "altera_merlin_master_translator" -library "Nios" -name IP_TOOL_VERSION "13.1"
 set_global_assignment -entity "altera_merlin_master_translator" -library "Nios" -name IP_TOOL_ENV "Qsys"
+set_global_assignment -entity "Nios_pushbuton" -library "Nios" -name IP_TOOL_NAME "altera_avalon_pio"
+set_global_assignment -entity "Nios_pushbuton" -library "Nios" -name IP_TOOL_VERSION "13.1"
+set_global_assignment -entity "Nios_pushbuton" -library "Nios" -name IP_TOOL_ENV "Qsys"
+set_global_assignment -entity "Nios_led" -library "Nios" -name IP_TOOL_NAME "altera_avalon_pio"
+set_global_assignment -entity "Nios_led" -library "Nios" -name IP_TOOL_VERSION "13.1"
+set_global_assignment -entity "Nios_led" -library "Nios" -name IP_TOOL_ENV "Qsys"
 set_global_assignment -entity "Nios_Jtag" -library "Nios" -name IP_TOOL_NAME "altera_avalon_jtag_uart"
 set_global_assignment -entity "Nios_Jtag" -library "Nios" -name IP_TOOL_VERSION "13.1"
 set_global_assignment -entity "Nios_Jtag" -library "Nios" -name IP_TOOL_ENV "Qsys"
