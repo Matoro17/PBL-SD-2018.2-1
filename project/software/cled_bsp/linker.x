@@ -4,7 +4,7 @@
  * Machine generated for CPU 'Nios' in SOPC Builder design 'Nios'
  * SOPC Builder design path: C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios.sopcinfo
  *
- * Generated: Thu Sep 13 19:43:02 BRT 2018
+ * Generated: Fri Sep 14 14:40:08 BRT 2018
  */
 
 /*
@@ -50,12 +50,12 @@
 
 MEMORY
 {
-    reset : ORIGIN = 0x10000, LENGTH = 32
-    memory : ORIGIN = 0x10020, LENGTH = 40064
+    reset : ORIGIN = 0x8000, LENGTH = 32
+    memory : ORIGIN = 0x8020, LENGTH = 21352
 }
 
 /* Define symbols for each memory base-address */
-__alt_mem_memory = 0x10000;
+__alt_mem_memory = 0x8000;
 
 OUTPUT_FORMAT( "elf32-littlenios2",
                "elf32-littlenios2",
@@ -367,7 +367,7 @@ SECTIONS
 /*
  * Don't override this, override the __alt_stack_* symbols instead.
  */
-__alt_data_end = 0x19ca0;
+__alt_data_end = 0xd388;
 
 /*
  * The next two symbols define the location of the default stack.  You can
@@ -383,4 +383,4 @@ PROVIDE( __alt_stack_limit   = __alt_stack_base );
  * Override this symbol to put the heap in a different memory.
  */
 PROVIDE( __alt_heap_start    = end );
-PROVIDE( __alt_heap_limit    = 0x19ca0 );
+PROVIDE( __alt_heap_limit    = 0xd388 );

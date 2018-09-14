@@ -1,5 +1,5 @@
 EDA Netlist Writer report for PBL-SD-1
-Thu Sep 13 20:20:26 2018
+Fri Sep 14 14:18:13 2018
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
 
 
@@ -8,7 +8,9 @@ Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
 ---------------------
   1. Legal Notice
   2. EDA Netlist Writer Summary
-  3. EDA Netlist Writer Messages
+  3. Simulation Settings
+  4. Simulation Generated Files
+  5. EDA Netlist Writer Messages
 
 
 
@@ -31,14 +33,53 @@ applicable agreement for further details.
 
 
 
-+---------------------------------------------------------------+
-; EDA Netlist Writer Summary                                    ;
-+---------------------------+-----------------------------------+
-; EDA Netlist Writer Status ; Failed - Thu Sep 13 20:20:26 2018 ;
-; Revision Name             ; PBL-SD-1                          ;
-; Top-level Entity Name     ; TOP                               ;
-; Family                    ; Cyclone IV E                      ;
-+---------------------------+-----------------------------------+
++-------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                        ;
++---------------------------+---------------------------------------+
+; EDA Netlist Writer Status ; Successful - Fri Sep 14 14:18:13 2018 ;
+; Revision Name             ; PBL-SD-1                              ;
+; Top-level Entity Name     ; Nios                                  ;
+; Family                    ; Cyclone IV E                          ;
+; Simulation Files Creation ; Successful                            ;
++---------------------------+---------------------------------------+
+
+
++----------------------------------------------------------------------------------------------------------------------------+
+; Simulation Settings                                                                                                        ;
++---------------------------------------------------------------------------------------------------+------------------------+
+; Option                                                                                            ; Setting                ;
++---------------------------------------------------------------------------------------------------+------------------------+
+; Tool Name                                                                                         ; ModelSim-Altera (VHDL) ;
+; Generate netlist for functional simulation only                                                   ; Off                    ;
+; Time scale                                                                                        ; 1 ps                   ;
+; Truncate long hierarchy paths                                                                     ; Off                    ;
+; Map illegal HDL characters                                                                        ; Off                    ;
+; Flatten buses into individual nodes                                                               ; Off                    ;
+; Maintain hierarchy                                                                                ; Off                    ;
+; Bring out device-wide set/reset signals as ports                                                  ; Off                    ;
+; Enable glitch filtering                                                                           ; Off                    ;
+; Do not write top level VHDL entity                                                                ; Off                    ;
+; Disable detection of setup and hold time violations in the input registers of bi-directional pins ; Off                    ;
+; Architecture name in VHDL output netlist                                                          ; structure              ;
+; Generate third-party EDA tool command script for RTL functional simulation                        ; Off                    ;
+; Generate third-party EDA tool command script for gate-level simulation                            ; Off                    ;
++---------------------------------------------------------------------------------------------------+------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------+
+; Simulation Generated Files                                                                                        ;
++-------------------------------------------------------------------------------------------------------------------+
+; Generated Files                                                                                                   ;
++-------------------------------------------------------------------------------------------------------------------+
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_8_1200mv_85c_slow.vho      ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_8_1200mv_0c_slow.vho       ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_min_1200mv_0c_fast.vho     ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1.vho                        ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_8_1200mv_85c_vhd_slow.sdo  ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_8_1200mv_0c_vhd_slow.sdo   ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_min_1200mv_0c_vhd_fast.sdo ;
+; C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/PBL-SD-1_vhd.sdo                    ;
++-------------------------------------------------------------------------------------------------------------------+
 
 
 +-----------------------------+
@@ -47,18 +88,20 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
-    Info: Processing started: Thu Sep 13 20:20:25 2018
+    Info: Processing started: Fri Sep 14 14:18:08 2018
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off PBL-SD-1 -c PBL-SD-1
-Error (204012): Can't generate netlist output files because the file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is an OpenCore Plus time-limited file
-Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is not available
-Error (204012): Can't generate netlist output files because the file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is an OpenCore Plus time-limited file
-Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is not available
-Error (204012): Can't generate netlist output files because the file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is an OpenCore Plus time-limited file
-Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v" is not available
-Error: Quartus II 64-Bit EDA Netlist Writer was unsuccessful. 6 errors, 0 warnings
-    Error: Peak virtual memory: 4594 megabytes
-    Error: Processing ended: Thu Sep 13 20:20:26 2018
-    Error: Elapsed time: 00:00:01
-    Error: Total CPU time (on all processors): 00:00:01
+Info (204019): Generated file PBL-SD-1_8_1200mv_85c_slow.vho in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_8_1200mv_0c_slow.vho in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_min_1200mv_0c_fast.vho in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1.vho in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_8_1200mv_85c_vhd_slow.sdo in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_8_1200mv_0c_vhd_slow.sdo in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_min_1200mv_0c_vhd_fast.sdo in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file PBL-SD-1_vhd.sdo in folder "C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/simulation/modelsim/" for EDA simulation tool
+Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4604 megabytes
+    Info: Processing ended: Fri Sep 14 14:18:13 2018
+    Info: Elapsed time: 00:00:05
+    Info: Total CPU time (on all processors): 00:00:05
 
 

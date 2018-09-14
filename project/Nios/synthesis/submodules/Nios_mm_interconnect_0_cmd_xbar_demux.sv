@@ -28,10 +28,10 @@
 // ------------------------------------------
 // Generation parameters:
 //   output_name:         Nios_mm_interconnect_0_cmd_xbar_demux
-//   ST_DATA_W:           94
+//   ST_DATA_W:           93
 //   ST_CHANNEL_W:        5
 //   NUM_OUTPUTS:         2
-//   VALID_WIDTH:         5
+//   VALID_WIDTH:         1
 // ------------------------------------------
 
 //------------------------------------------
@@ -45,8 +45,8 @@ module Nios_mm_interconnect_0_cmd_xbar_demux
     // -------------------
     // Sink
     // -------------------
-    input  [5-1      : 0]   sink_valid,
-    input  [94-1    : 0]   sink_data, // ST_DATA_W=94
+    input  [1-1      : 0]   sink_valid,
+    input  [93-1    : 0]   sink_data, // ST_DATA_W=93
     input  [5-1 : 0]   sink_channel, // ST_CHANNEL_W=5
     input                         sink_startofpacket,
     input                         sink_endofpacket,
@@ -56,14 +56,14 @@ module Nios_mm_interconnect_0_cmd_xbar_demux
     // Sources 
     // -------------------
     output reg                      src0_valid,
-    output reg [94-1    : 0] src0_data, // ST_DATA_W=94
+    output reg [93-1    : 0] src0_data, // ST_DATA_W=93
     output reg [5-1 : 0] src0_channel, // ST_CHANNEL_W=5
     output reg                      src0_startofpacket,
     output reg                      src0_endofpacket,
     input                           src0_ready,
 
     output reg                      src1_valid,
-    output reg [94-1    : 0] src1_data, // ST_DATA_W=94
+    output reg [93-1    : 0] src1_data, // ST_DATA_W=93
     output reg [5-1 : 0] src1_channel, // ST_CHANNEL_W=5
     output reg                      src1_startofpacket,
     output reg                      src1_endofpacket,
@@ -92,14 +92,14 @@ module Nios_mm_interconnect_0_cmd_xbar_demux
         src0_endofpacket   = sink_endofpacket;
         src0_channel       = sink_channel >> NUM_OUTPUTS;
 
-        src0_valid         = sink_channel[0] && sink_valid[0];
+        src0_valid         = sink_channel[0] && sink_valid;
 
         src1_data          = sink_data;
         src1_startofpacket = sink_startofpacket;
         src1_endofpacket   = sink_endofpacket;
         src1_channel       = sink_channel >> NUM_OUTPUTS;
 
-        src1_valid         = sink_channel[1] && sink_valid[1];
+        src1_valid         = sink_channel[1] && sink_valid;
 
     end
 

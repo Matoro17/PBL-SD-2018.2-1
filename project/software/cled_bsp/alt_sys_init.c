@@ -4,7 +4,7 @@
  * Machine generated for CPU 'Nios' in SOPC Builder design 'Nios'
  * SOPC Builder design path: C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios.sopcinfo
  *
- * Generated: Thu Sep 13 19:43:02 BRT 2018
+ * Generated: Fri Sep 14 14:40:08 BRT 2018
  */
 
 /*

@@ -4,7 +4,7 @@
  * Machine generated for CPU 'Nios' in SOPC Builder design 'Nios'
  * SOPC Builder design path: C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios.sopcinfo
  *
- * Generated: Thu Sep 13 19:43:02 BRT 2018
+ * Generated: Fri Sep 14 14:40:08 BRT 2018
  */
 
 /*
@@ -65,9 +65,9 @@
  *
  */
 
-#define MEMORY_REGION_BASE 0x10020
-#define MEMORY_REGION_SPAN 40064
-#define RESET_REGION_BASE 0x10000
+#define MEMORY_REGION_BASE 0x8020
+#define MEMORY_REGION_SPAN 21352
+#define RESET_REGION_BASE 0x8000
 #define RESET_REGION_SPAN 32
 
 
