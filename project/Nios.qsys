@@ -32,7 +32,7 @@
    {
       datum _sortIndex
       {
-         value = "5";
+         value = "4";
          type = "int";
       }
    }
@@ -48,15 +48,39 @@
    {
       datum baseAddress
       {
-         value = "36992";
+         value = "37040";
          type = "String";
       }
    }
-   element dip
+   element dip_0
    {
       datum _sortIndex
       {
-         value = "4";
+         value = "12";
+         type = "int";
+      }
+   }
+   element dip_1
+   {
+      datum _sortIndex
+      {
+         value = "13";
+         type = "int";
+      }
+   }
+   element dip_2
+   {
+      datum _sortIndex
+      {
+         value = "14";
+         type = "int";
+      }
+   }
+   element dip_3
+   {
+      datum _sortIndex
+      {
+         value = "15";
          type = "int";
       }
    }
@@ -72,7 +96,7 @@
    {
       datum _sortIndex
       {
-         value = "7";
+         value = "6";
          type = "int";
       }
    }
@@ -80,7 +104,7 @@
    {
       datum _sortIndex
       {
-         value = "8";
+         value = "7";
          type = "int";
       }
    }
@@ -88,7 +112,7 @@
    {
       datum _sortIndex
       {
-         value = "9";
+         value = "8";
          type = "int";
       }
    }
@@ -96,7 +120,7 @@
    {
       datum _sortIndex
       {
-         value = "10";
+         value = "9";
          type = "int";
       }
    }
@@ -104,7 +128,7 @@
    {
       datum _sortIndex
       {
-         value = "11";
+         value = "10";
          type = "int";
       }
    }
@@ -120,7 +144,7 @@
    {
       datum _sortIndex
       {
-         value = "12";
+         value = "11";
          type = "int";
       }
    }
@@ -128,11 +152,35 @@
    {
       datum _sortIndex
       {
-         value = "6";
+         value = "5";
          type = "int";
       }
    }
-   element pushbutton_2.s1
+   element led_2.s1
+   {
+      datum baseAddress
+      {
+         value = "36992";
+         type = "String";
+      }
+   }
+   element dip_0.s1
+   {
+      datum baseAddress
+      {
+         value = "36912";
+         type = "String";
+      }
+   }
+   element led_3.s1
+   {
+      datum baseAddress
+      {
+         value = "36976";
+         type = "String";
+      }
+   }
+   element led_4.s1
    {
       datum baseAddress
       {
@@ -144,31 +192,15 @@
    {
       datum baseAddress
       {
-         value = "36864";
-         type = "String";
-      }
-   }
-   element led_3.s1
-   {
-      datum baseAddress
-      {
-         value = "36912";
-         type = "String";
-      }
-   }
-   element led_2.s1
-   {
-      datum baseAddress
-      {
          value = "36928";
          type = "String";
       }
    }
-   element led_4.s1
+   element led_1.s1
    {
       datum baseAddress
       {
-         value = "36896";
+         value = "37008";
          type = "String";
       }
    }
@@ -180,15 +212,31 @@
          type = "String";
       }
    }
-   element dip.s1
+   element pushbutton_1.s1
    {
       datum baseAddress
       {
-         value = "36976";
+         value = "36944";
          type = "String";
       }
    }
-   element pushbutton_1.s1
+   element dip_1.s1
+   {
+      datum baseAddress
+      {
+         value = "36896";
+         type = "String";
+      }
+   }
+   element pushbutton_2.s1
+   {
+      datum baseAddress
+      {
+         value = "37024";
+         type = "String";
+      }
+   }
+   element dip_2.s1
    {
       datum baseAddress
       {
@@ -196,11 +244,11 @@
          type = "String";
       }
    }
-   element led_1.s1
+   element dip_3.s1
    {
       datum baseAddress
       {
-         value = "36944";
+         value = "36864";
          type = "String";
       }
    }
@@ -223,11 +271,6 @@
  <parameter name="useTestBenchNamingPattern" value="false" />
  <instanceScript></instanceScript>
  <interface name="clk" internal="Clk.clk_in" type="clock" dir="end" />
- <interface
-   name="dip_external_connection"
-   internal="dip.external_connection"
-   type="conduit"
-   dir="end" />
  <interface
    name="lcd_0_conduit_end"
    internal="LCD_0.conduit_end"
@@ -266,6 +309,26 @@
  <interface
    name="pushbutton_1_external_connection"
    internal="pushbutton_1.external_connection"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="dip_0_external_connection"
+   internal="dip_0.external_connection"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="dip_1_external_connection"
+   internal="dip_1.external_connection"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="dip_2_external_connection"
+   internal="dip_2.external_connection"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="dip_3_external_connection"
+   internal="dip_3.external_connection"
    type="conduit"
    dir="end" />
  <module kind="clock_source" version="13.1" enabled="1" name="Clk">
@@ -412,7 +475,7 @@
   <parameter name="tightlyCoupledInstructionMaster2AddrWidth" value="1" />
   <parameter name="tightlyCoupledInstructionMaster3AddrWidth" value="1" />
   <parameter name="instSlaveMapParam"><![CDATA[<address-map><slave name='memory.s1' start='0x4000' end='0x8000' /><slave name='Nios.jtag_debug_module' start='0x8800' end='0x9000' /></address-map>]]></parameter>
-  <parameter name="dataSlaveMapParam"><![CDATA[<address-map><slave name='memory.s1' start='0x4000' end='0x8000' /><slave name='Nios.jtag_debug_module' start='0x8800' end='0x9000' /><slave name='led_5.s1' start='0x9000' end='0x9010' /><slave name='pushbutton_1.s1' start='0x9010' end='0x9020' /><slave name='led_4.s1' start='0x9020' end='0x9030' /><slave name='led_3.s1' start='0x9030' end='0x9040' /><slave name='led_2.s1' start='0x9040' end='0x9050' /><slave name='led_1.s1' start='0x9050' end='0x9060' /><slave name='pushbutton_2.s1' start='0x9060' end='0x9070' /><slave name='dip.s1' start='0x9070' end='0x9080' /><slave name='Jtag.avalon_jtag_slave' start='0x9080' end='0x9088' /></address-map>]]></parameter>
+  <parameter name="dataSlaveMapParam"><![CDATA[<address-map><slave name='memory.s1' start='0x4000' end='0x8000' /><slave name='Nios.jtag_debug_module' start='0x8800' end='0x9000' /><slave name='dip_3.s1' start='0x9000' end='0x9010' /><slave name='dip_2.s1' start='0x9010' end='0x9020' /><slave name='dip_1.s1' start='0x9020' end='0x9030' /><slave name='dip_0.s1' start='0x9030' end='0x9040' /><slave name='led_5.s1' start='0x9040' end='0x9050' /><slave name='pushbutton_1.s1' start='0x9050' end='0x9060' /><slave name='led_4.s1' start='0x9060' end='0x9070' /><slave name='led_3.s1' start='0x9070' end='0x9080' /><slave name='led_2.s1' start='0x9080' end='0x9090' /><slave name='led_1.s1' start='0x9090' end='0x90A0' /><slave name='pushbutton_2.s1' start='0x90A0' end='0x90B0' /><slave name='Jtag.avalon_jtag_slave' start='0x90B0' end='0x90B8' /></address-map>]]></parameter>
   <parameter name="clockFrequency" value="50000000" />
   <parameter name="deviceFamilyName" value="Cyclone IV E" />
   <parameter name="internalIrqMaskSystemInfo" value="1" />
@@ -440,20 +503,6 @@
   <parameter name="writeBufferDepth" value="64" />
   <parameter name="writeIRQThreshold" value="8" />
   <parameter name="avalonSpec" value="2.0" />
- </module>
- <module kind="altera_avalon_pio" version="13.1" enabled="1" name="dip">
-  <parameter name="bitClearingEdgeCapReg" value="false" />
-  <parameter name="bitModifyingOutReg" value="false" />
-  <parameter name="captureEdge" value="false" />
-  <parameter name="direction" value="Input" />
-  <parameter name="edgeType" value="RISING" />
-  <parameter name="generateIRQ" value="false" />
-  <parameter name="irqType" value="LEVEL" />
-  <parameter name="resetValue" value="0" />
-  <parameter name="simDoTestBenchWiring" value="false" />
-  <parameter name="simDrivenValue" value="0" />
-  <parameter name="width" value="4" />
-  <parameter name="clockRate" value="50000000" />
  </module>
  <module kind="LCD" version="1.0" enabled="1" name="LCD_0" />
  <module
@@ -562,6 +611,62 @@
   <parameter name="width" value="1" />
   <parameter name="clockRate" value="50000000" />
  </module>
+ <module kind="altera_avalon_pio" version="13.1" enabled="1" name="dip_0">
+  <parameter name="bitClearingEdgeCapReg" value="false" />
+  <parameter name="bitModifyingOutReg" value="false" />
+  <parameter name="captureEdge" value="false" />
+  <parameter name="direction" value="Input" />
+  <parameter name="edgeType" value="RISING" />
+  <parameter name="generateIRQ" value="false" />
+  <parameter name="irqType" value="LEVEL" />
+  <parameter name="resetValue" value="0" />
+  <parameter name="simDoTestBenchWiring" value="false" />
+  <parameter name="simDrivenValue" value="0" />
+  <parameter name="width" value="1" />
+  <parameter name="clockRate" value="50000000" />
+ </module>
+ <module kind="altera_avalon_pio" version="13.1" enabled="1" name="dip_1">
+  <parameter name="bitClearingEdgeCapReg" value="false" />
+  <parameter name="bitModifyingOutReg" value="false" />
+  <parameter name="captureEdge" value="false" />
+  <parameter name="direction" value="Input" />
+  <parameter name="edgeType" value="RISING" />
+  <parameter name="generateIRQ" value="false" />
+  <parameter name="irqType" value="LEVEL" />
+  <parameter name="resetValue" value="0" />
+  <parameter name="simDoTestBenchWiring" value="false" />
+  <parameter name="simDrivenValue" value="0" />
+  <parameter name="width" value="1" />
+  <parameter name="clockRate" value="50000000" />
+ </module>
+ <module kind="altera_avalon_pio" version="13.1" enabled="1" name="dip_2">
+  <parameter name="bitClearingEdgeCapReg" value="false" />
+  <parameter name="bitModifyingOutReg" value="false" />
+  <parameter name="captureEdge" value="false" />
+  <parameter name="direction" value="Input" />
+  <parameter name="edgeType" value="RISING" />
+  <parameter name="generateIRQ" value="false" />
+  <parameter name="irqType" value="LEVEL" />
+  <parameter name="resetValue" value="0" />
+  <parameter name="simDoTestBenchWiring" value="false" />
+  <parameter name="simDrivenValue" value="0" />
+  <parameter name="width" value="1" />
+  <parameter name="clockRate" value="50000000" />
+ </module>
+ <module kind="altera_avalon_pio" version="13.1" enabled="1" name="dip_3">
+  <parameter name="bitClearingEdgeCapReg" value="false" />
+  <parameter name="bitModifyingOutReg" value="false" />
+  <parameter name="captureEdge" value="false" />
+  <parameter name="direction" value="Input" />
+  <parameter name="edgeType" value="RISING" />
+  <parameter name="generateIRQ" value="false" />
+  <parameter name="irqType" value="LEVEL" />
+  <parameter name="resetValue" value="0" />
+  <parameter name="simDoTestBenchWiring" value="false" />
+  <parameter name="simDrivenValue" value="0" />
+  <parameter name="width" value="1" />
+  <parameter name="clockRate" value="50000000" />
+ </module>
  <connection
    kind="avalon"
    version="13.1"
@@ -588,7 +693,7 @@
    start="Nios.data_master"
    end="Jtag.avalon_jtag_slave">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9080" />
+  <parameter name="baseAddress" value="0x90b0" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection kind="interrupt" version="13.1" start="Nios.d_irq" end="Jtag.irq">
@@ -632,18 +737,6 @@
    start="Nios.jtag_debug_module_reset"
    end="Jtag.reset" />
  <connection kind="clock" version="13.1" start="Clk.clk" end="Jtag.clk" />
- <connection kind="reset" version="13.1" start="Clk.clk_reset" end="dip.reset" />
- <connection
-   kind="reset"
-   version="13.1"
-   start="Nios.jtag_debug_module_reset"
-   end="dip.reset" />
- <connection kind="clock" version="13.1" start="Clk.clk" end="dip.clk" />
- <connection kind="avalon" version="13.1" start="Nios.data_master" end="dip.s1">
-  <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9070" />
-  <parameter name="defaultConnection" value="false" />
- </connection>
  <connection
    kind="nios_custom_instruction"
    version="13.1"
@@ -665,7 +758,7 @@
    start="Nios.data_master"
    end="pushbutton_2.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9060" />
+  <parameter name="baseAddress" value="0x90a0" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -677,7 +770,7 @@
  <connection kind="reset" version="13.1" start="Clk.clk_reset" end="led_1.reset" />
  <connection kind="avalon" version="13.1" start="Nios.data_master" end="led_1.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9050" />
+  <parameter name="baseAddress" value="0x9090" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -689,7 +782,7 @@
  <connection kind="reset" version="13.1" start="Clk.clk_reset" end="led_2.reset" />
  <connection kind="avalon" version="13.1" start="Nios.data_master" end="led_2.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9040" />
+  <parameter name="baseAddress" value="0x9080" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -701,7 +794,7 @@
  <connection kind="reset" version="13.1" start="Clk.clk_reset" end="led_3.reset" />
  <connection kind="avalon" version="13.1" start="Nios.data_master" end="led_3.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9030" />
+  <parameter name="baseAddress" value="0x9070" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -713,7 +806,7 @@
  <connection kind="reset" version="13.1" start="Clk.clk_reset" end="led_4.reset" />
  <connection kind="avalon" version="13.1" start="Nios.data_master" end="led_4.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9020" />
+  <parameter name="baseAddress" value="0x9060" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -735,7 +828,7 @@
    start="Nios.data_master"
    end="pushbutton_1.s1">
   <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x9010" />
+  <parameter name="baseAddress" value="0x9050" />
   <parameter name="defaultConnection" value="false" />
  </connection>
  <connection
@@ -750,9 +843,57 @@
    end="led_5.reset" />
  <connection kind="avalon" version="13.1" start="Nios.data_master" end="led_5.s1">
   <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x9040" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection kind="clock" version="13.1" start="Clk.clk" end="dip_0.clk" />
+ <connection kind="reset" version="13.1" start="Clk.clk_reset" end="dip_0.reset" />
+ <connection kind="avalon" version="13.1" start="Nios.data_master" end="dip_0.s1">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x9030" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection
+   kind="reset"
+   version="13.1"
+   start="Nios.jtag_debug_module_reset"
+   end="dip_0.reset" />
+ <connection kind="clock" version="13.1" start="Clk.clk" end="dip_1.clk" />
+ <connection kind="reset" version="13.1" start="Clk.clk_reset" end="dip_1.reset" />
+ <connection kind="avalon" version="13.1" start="Nios.data_master" end="dip_1.s1">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x9020" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection
+   kind="reset"
+   version="13.1"
+   start="Nios.jtag_debug_module_reset"
+   end="dip_1.reset" />
+ <connection kind="clock" version="13.1" start="Clk.clk" end="dip_2.clk" />
+ <connection kind="clock" version="13.1" start="Clk.clk" end="dip_3.clk" />
+ <connection kind="reset" version="13.1" start="Clk.clk_reset" end="dip_3.reset" />
+ <connection kind="reset" version="13.1" start="Clk.clk_reset" end="dip_2.reset" />
+ <connection kind="avalon" version="13.1" start="Nios.data_master" end="dip_2.s1">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x9010" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection kind="avalon" version="13.1" start="Nios.data_master" end="dip_3.s1">
+  <parameter name="arbitrationPriority" value="1" />
   <parameter name="baseAddress" value="0x9000" />
   <parameter name="defaultConnection" value="false" />
  </connection>
+ <connection
+   kind="reset"
+   version="13.1"
+   start="Nios.jtag_debug_module_reset"
+   end="dip_2.reset" />
+ <connection
+   kind="reset"
+   version="13.1"
+   start="Nios.jtag_debug_module_reset"
+   end="dip_3.reset" />
  <interconnectRequirement for="$system" name="qsys_mm.clockCrossingAdapter" value="HANDSHAKE" />
  <interconnectRequirement for="$system" name="qsys_mm.maxAdditionalLatency" value="1" />
  <interconnectRequirement for="$system" name="qsys_mm.insertDefaultSlave" value="false" />

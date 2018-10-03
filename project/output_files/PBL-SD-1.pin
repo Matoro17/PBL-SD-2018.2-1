@@ -74,11 +74,11 @@ RESERVED_INPUT_WITH_WEAK_PULLUP : 3         :        :                   :      
 GND                          : 4         : gnd    :                   :         :           :                
 VCCINT                       : 5         : power  :                   : 1.2V    :           :                
 ~ALTERA_ASDO_DATA1~ / RESERVED_INPUT_WITH_WEAK_PULLUP : 6         : input  : 2.5 V             :         : 1         : N              
-dip_external_connection_export[3] : 7         : input  : 2.5 V             :         : 1         : Y              
+RESERVED_INPUT_WITH_WEAK_PULLUP : 7         :        :                   :         : 1         :                
 ~ALTERA_FLASH_nCE_nCSO~ / RESERVED_INPUT_WITH_WEAK_PULLUP : 8         : input  : 2.5 V             :         : 1         : N              
 nSTATUS                      : 9         :        :                   :         : 1         :                
-dip_external_connection_export[2] : 10        : input  : 2.5 V             :         : 1         : Y              
-dip_external_connection_export[1] : 11        : input  : 2.5 V             :         : 1         : Y              
+dip_3_external_connection_export : 10        : input  : 2.5 V             :         : 1         : Y              
+dip_2_external_connection_export : 11        : input  : 2.5 V             :         : 1         : Y              
 ~ALTERA_DCLK~                : 12        : output : 2.5 V             :         : 1         : N              
 ~ALTERA_DATA0~ / RESERVED_INPUT_WITH_WEAK_PULLUP : 13        : input  : 2.5 V             :         : 1         : N              
 nCONFIG                      : 14        :        :                   :         : 1         :                
@@ -95,9 +95,9 @@ pushbutton2_external_connection_export : 24        : input  : 2.5 V             
 pushbutton_1_external_connection_export : 25        : input  : 2.5 V             :         : 2         : Y              
 VCCIO2                       : 26        : power  :                   : 2.5V    : 2         :                
 GND                          : 27        : gnd    :                   :         :           :                
-dip_external_connection_export[0] : 28        : input  : 2.5 V             :         : 2         : Y              
+dip_1_external_connection_export : 28        : input  : 2.5 V             :         : 2         : Y              
 VCCINT                       : 29        : power  :                   : 1.2V    :           :                
-RESERVED_INPUT_WITH_WEAK_PULLUP : 30        :        :                   :         : 2         :                
+dip_0_external_connection_export : 30        : input  : 2.5 V             :         : 2         : Y              
 lcd_0_conduit_end_rs         : 31        : output : 2.5 V             :         : 2         : Y              
 lcd_0_conduit_end_rw         : 32        : output : 2.5 V             :         : 2         : Y              
 lcd_0_conduit_end_en         : 33        : output : 2.5 V             :         : 2         : Y              
