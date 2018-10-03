@@ -6,7 +6,6 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_Nios:nios|Nios_Nios_register_bank_a_module:Nios_Nios_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_bvf1.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_Nios:nios|Nios_Nios_register_bank_b_module:Nios_Nios_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_cvf1.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_Jtag:jtag|Nios_Jtag_scfifo_r:the_Nios_Jtag_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_memory:memory|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_hsb1.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_memory:memory|altsyncram:the_altsyncram|altsyncram_hsb1:auto_generated|altsyncram:ram_block1a0" CBX_FILE_NAME="altsyncram_8ub3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Nios|Nios_memory:memory|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_isb1.tdf"/>
 	</PROJECT>
 </LOG_ROOT>

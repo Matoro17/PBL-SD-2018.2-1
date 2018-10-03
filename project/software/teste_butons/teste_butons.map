@@ -1,0 +1,1008 @@
+Archive member included because of file (symbol)
+
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              obj/default/hello_world.o (__mulsi3)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              obj/default/hello_world.o (memcpy)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                              obj/default/hello_world.o (printf)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              obj/default/hello_world.o (strlen)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (___vfprintf_internal_r)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (__sfvwrite_small_dev)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (_impure_ptr)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (errno)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (__udivsi3)
+../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+                              ../teste_butons_bsp//obj/HAL/src/crt0.o (alt_load)
+../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+                              ../teste_butons_bsp//obj/HAL/src/crt0.o (alt_main)
+../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+                              obj/default/hello_world.o (alt_putstr)
+../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+                              obj/default/hello_world.o (usleep)
+../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (write)
+../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (close)
+../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_write.o) (alt_errno)
+../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o) (fputs)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+_atexit0            0x8c              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00008000         0x00000020
+memory           0x00008020         0x00003fe0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../teste_butons_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a
+LOAD ../teste_butons_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a
+                0x00008000                __alt_mem_memory = 0x8000
+
+.entry          0x00008000       0x20
+ *(.entry)
+ .entry         0x00008000       0x20 ../teste_butons_bsp//obj/HAL/src/crt0.o
+                0x00008000                __reset
+
+.exceptions     0x00008020        0x0
+                0x00008020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x00008020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00008020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00008020     0x2558
+                0x00008020                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008020       0x3c ../teste_butons_bsp//obj/HAL/src/crt0.o
+                0x00008020                _start
+ .text          0x0000805c      0x44c obj/default/hello_world.o
+                0x0000805c                main
+                0x000081a0                printalcd
+                0x0000826c                button_value_changed
+                0x000082ec                pot
+                0x00008354                espera
+                0x000083a4                lcd_init
+ .text          0x000084a8       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x000084a8                __mulsi3
+ .text          0x000084d0       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x000084d0                memcpy
+ .text          0x000084f8       0x88 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                0x000084f8                _printf_r
+                0x00008534                printf
+ .text          0x00008580       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x00008580                strlen
+ .text          0x000085a8      0x758 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                0x000085a8                ___vfprintf_internal_r
+                0x00008cdc                __vfprintf_internal
+ .text          0x00008d00       0xe0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x00008d00                __sfvwrite_small_dev
+ .text          0x00008de0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x00008de0       0x6c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                0x00008de0                _write_r
+ .text          0x00008e4c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x00008e4c      0x130 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x00008ec0                __divsi3
+                0x00008f10                __modsi3
+                0x00008f6c                __udivsi3
+                0x00008f74                __umodsi3
+ .text          0x00008f7c       0xec ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+                0x00008fe8                alt_load
+ .text          0x00009068       0x78 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+                0x00009068                alt_main
+ .text          0x000090e0       0x44 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+                0x000090e0                alt_putstr
+ .text          0x00009124       0x30 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+                0x00009124                usleep
+ .text          0x00009154      0x140 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+                0x000091a4                write
+ .text          0x00009294       0xa0 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x000092cc                alt_irq_init
+                0x00009300                alt_sys_init
+ .text          0x00009334       0xc0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00009334                altera_avalon_jtag_uart_read_fd
+                0x00009394                altera_avalon_jtag_uart_write_fd
+ .text          0x000093f4       0xf4 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x000093f4                altera_avalon_jtag_uart_read
+ .text          0x000094e8       0x98 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x000094e8                altera_avalon_jtag_uart_write
+ .text          0x00009580      0x154 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x00009580                alt_busy_sleep
+ .text          0x000096d4      0x11c ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+                0x00009724                close
+ .text          0x000097f0       0x1c ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x000097f0                alt_dcache_flush_all
+ .text          0x0000980c       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x00009838       0xf0 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x00009888                alt_dev_llist_insert
+ .text          0x00009928       0x5c ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x00009928                _do_ctors
+ .text          0x00009984       0x5c ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x00009984                _do_dtors
+ .text          0x000099e0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x000099e0       0x1c ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x000099e0                alt_icache_flush_all
+ .text          0x000099fc      0x158 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x00009adc                alt_io_redirect
+ .text          0x00009b54      0x298 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+                0x00009c94                open
+ .text          0x00009dec       0x80 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x00009dec                alt_release_fd
+ .text          0x00009e6c       0x20 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x00009e6c                altera_nios2_qsys_irq_init
+ .text          0x00009e8c       0x90 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x00009e8c                alt_find_dev
+ .text          0x00009f1c      0x114 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x00009f1c                alt_find_file
+ .text          0x0000a030       0xd4 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x0000a030                alt_get_fd
+ .text          0x0000a104       0x14 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                0x0000a104                atexit
+ .text          0x0000a118       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                0x0000a118                exit
+ .text          0x0000a138       0x5c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+                0x0000a138                fputs
+ .text          0x0000a194       0x48 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000a194                memcmp
+ .text          0x0000a1dc      0x188 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                0x0000a1dc                __register_exitproc
+ .text          0x0000a364      0x1d8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                0x0000a364                __call_exitprocs
+ .text          0x0000a53c       0x3c ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000a53c                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0000a578                PROVIDE (__etext, ABSOLUTE (.))
+                0x0000a578                PROVIDE (_etext, ABSOLUTE (.))
+                0x0000a578                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000a578                . = ALIGN (0x4)
+                0x0000a578                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0000a578                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0000a578                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0000a578                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0000a578                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0000a578                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x0000a578                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                0x0000a578                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x0000a578                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x0000a578                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0000a578                . = ALIGN (0x4)
+
+.rodata         0x0000a578       0x94
+                0x0000a578                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000a578                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000a578       0x70 obj/default/hello_world.o
+ .rodata        0x0000a5e8        0xc ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x0000a5f4        0xc ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x0000a600        0xc ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x0000a60c                . = ALIGN (0x4)
+                0x0000a60c                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000a578                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x0000a60c      0x2d8 load address 0x0000a8e4
+                0x0000a60c                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x0000a60c                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000a60c        0x0 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .data          0x0000a60c        0x0 obj/default/hello_world.o
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .data          0x0000a60c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x0000a60c       0xe0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x0000a6ec        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .data          0x0000a6ec        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000a6ec        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000a6ec        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000a6ec        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000a6ec        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .data          0x0000a6ec        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .data          0x0000a6ec        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .data          0x0000a6ec       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0000a718        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000a718      0x1a8 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000a718                alt_dev_null
+                0x0000a740                alt_fd_list
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .data          0x0000a8c0        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x0000a8c0        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+                0x000128c0                _gp = ABSOLUTE ((. + 0x8000))
+                0x000128c0                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000a8c0        0x1 obj/default/hello_world.o
+                0x0000a8c0                button_value
+ *fill*         0x0000a8c1        0x3 
+ .sdata         0x0000a8c4        0x8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000a8c4                _global_impure_ptr
+                0x0000a8c8                _impure_ptr
+ .sdata         0x0000a8cc       0x14 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000a8cc                alt_fs_list
+                0x0000a8d4                alt_dev_list
+                0x0000a8dc                alt_max_fd
+ .sdata         0x0000a8e0        0x4 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000a8e0                alt_errno
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000a8e4                . = ALIGN (0x4)
+                0x0000a8e4                _edata = ABSOLUTE (.)
+                0x0000a8e4                PROVIDE (edata, ABSOLUTE (.))
+                0x0000a8e4                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000a8e4                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000abbc       0x9c
+                0x0000abbc                __bss_start = ABSOLUTE (.)
+                0x0000abbc                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x0000abbc                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000abbc        0x4 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000abbc                errno
+ .sbss          0x0000abc0        0xc ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000abc0                alt_argc
+                0x0000abc4                alt_argv
+                0x0000abc8                alt_envp
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0000abcc                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0000abcc                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000abcc        0x0 obj/default/hello_world.o
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .bss           0x0000abcc        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x0000abcc        0x0 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x0000abcc       0x8c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                0x0000abcc                _atexit0
+                0x0000ac58                . = ALIGN (0x4)
+                0x0000ac58                __bss_end = ABSOLUTE (.)
+
+.memory         0x0000ac58        0x0
+                0x0000ac58                PROVIDE (_alt_partition_memory_start, ABSOLUTE (.))
+ *(.memory .memory. memory.*)
+                0x0000ac58                . = ALIGN (0x4)
+                0x0000ac58                PROVIDE (_alt_partition_memory_end, ABSOLUTE (.))
+                0x0000ac58                _end = ABSOLUTE (.)
+                0x0000ac58                end = ABSOLUTE (.)
+                0x0000ac58                __alt_stack_base = ABSOLUTE (.)
+                0x0000ac58                PROVIDE (_alt_partition_memory_load_addr, LOADADDR (.memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x23
+ *(.comment)
+ .comment       0x00000000       0x23 obj/default/hello_world.o
+                                 0x24 (size before relaxing)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x570
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x00000048       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000068       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000088       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_aranges
+                0x000000a8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000000c8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x000000e8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x00000108       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000120       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000140       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000158       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000178       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x00000198       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x000001b8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_aranges
+                0x000001d8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x000001f8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000218       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000238       0x20 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x00000258       0x20 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000278       0x20 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000298       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x000002b8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x000002d8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x000002f8       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000318       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000338       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000358       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x00000378       0x18 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000390       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x000003b0       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x000003d0       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x000003f0       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000410       0x20 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x00000430       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000450       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000470       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x00000490       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x000004b0       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x000004d0       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_aranges
+                0x000004f0       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000510       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000530       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000550       0x20 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x8977
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x88 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x00000088      0x2af obj/default/hello_world.o
+ .debug_info    0x00000337       0xb8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x000003ef       0xcd c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x000004bc      0x765 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_info    0x00000c21       0xc6 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x00000ce7      0xc69 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_info    0x00001950      0x6d9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x00002029      0x631 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x0000265a      0x6cb c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_info    0x00002d25       0x84 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x00002da9      0x289 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00003032      0x135 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00003167      0x139 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000032a0      0x93f ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_info    0x00003bdf       0xad ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x00003c8c      0x507 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x00004193      0x406 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00004599      0x3da ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x00004973      0x1bc ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x00004b2f      0x19f ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00004cce       0xd5 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x00004da3      0x350 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x000050f3       0x90 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00005183      0x4e3 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00005666      0x1b9 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000581f       0x8d ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x000058ac       0x8d ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00005939       0xa3 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x000059dc       0x90 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x00005a6c      0x4f0 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00005f5c      0x3f0 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x0000634c      0x2dd ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x00006629       0x90 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x000066b9      0x30d ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x000069c6      0x30c ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00006cd2      0x339 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000700b      0x1eb c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_info    0x000071f6       0xf8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_info    0x000072ee      0x6a2 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_info    0x00007990       0xf1 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x00007a81      0x6fc c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_info    0x0000817d      0x70e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000888b       0xec ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x29e9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000012      0x14d obj/default/hello_world.o
+ .debug_abbrev  0x0000015f       0x6f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x000001ce       0x95 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000263      0x1e2 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_abbrev  0x00000445       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000004c4      0x2db c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x0000079f      0x1a8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x00000947      0x13b c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000a82      0x199 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x00000c1b       0x37 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000c52      0x112 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000d64       0x9d ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x00000e01       0xba ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000ebb      0x182 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_abbrev  0x0000103d       0x60 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x0000109d      0x133 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x000011d0      0x155 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00001325       0xf7 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x0000141c       0xd5 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x000014f1       0xd5 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x000015c6       0x7e ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x00001644      0x11f ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00001763       0x42 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x000017a5       0xd9 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000187e      0x114 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00001992       0x79 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00001a0b       0x79 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x00001a84       0x5a ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00001ade       0x42 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00001b20      0x114 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x00001c34      0x148 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x00001d7c       0xde ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00001e5a       0x42 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x00001e9c       0xf0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00001f8c       0xf0 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000207c      0x10d ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00002189      0x115 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000229e       0xa9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x00002347      0x19f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_abbrev  0x000024e6       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00002565      0x1f5 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000275a      0x1e9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00002943       0xa6 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x31c2
+ *(.debug_line)
+ .debug_line    0x00000000       0x66 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000066       0xe0 obj/default/hello_world.o
+ .debug_line    0x00000146       0x80 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x000001c6      0x100 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x000002c6      0x219 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_line    0x000004df      0x174 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x00000653      0x40e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_line    0x00000a61      0x225 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x00000c86      0x16c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x00000df2      0x20c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_line    0x00000ffe       0x60 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000105e       0xd6 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x00001134       0x92 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000011c6       0xa4 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000126a      0x13b ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_line    0x000013a5       0xce ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x00001473      0x1f8 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x0000166b      0x127 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00001792      0x114 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x000018a6      0x101 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x000019a7       0xf8 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x00001a9f       0xa2 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x00001b41      0x186 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00001cc7       0x51 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00001d18      0x119 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00001e31       0xd0 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00001f01       0x59 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00001f5a       0x59 ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x00001fb3       0x51 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00002004       0x4f ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x00002053      0x156 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x000021a9      0x128 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x000022d1       0xb0 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00002381       0x51 ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x000023d2       0xb9 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000248b       0xd5 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00002560       0xd4 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x00002634      0x170 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_line    0x000027a4      0x170 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_line    0x00002914      0x209 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_line    0x00002b1d      0x17f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x00002c9c      0x24e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_line    0x00002eea      0x267 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00003151       0x71 ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0x8e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xbc obj/default/hello_world.o
+ .debug_frame   0x000000bc       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000000dc       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x000000fc       0x40 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_frame   0x0000013c       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x0000015c       0x4c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_frame   0x000001a8       0x30 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x000001d8       0x2c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x00000204       0x70 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00000274       0x48 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x000002bc       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000002e8       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_frame   0x00000314       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x00000340       0x48 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x00000388       0x64 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x000003ec       0x48 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x00000434       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x00000460       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000048c       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x000004b8       0x48 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000500       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000052c       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x00000558       0x48 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x000005a0       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x000005cc       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x000005f8       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000624       0x4c ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000670       0x68 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x000006d8       0x30 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000708       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x00000734       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000760       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x0000078c       0x30 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000007bc       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_frame   0x000007dc       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x00000804       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_frame   0x0000082c       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000084c       0x30 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000087c       0x38 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000008b4       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000     0x17be
+ *(.debug_str)
+ .debug_str     0x00000000      0x148 obj/default/hello_world.o
+                                0x192 (size before relaxing)
+ .debug_str     0x00000148       0xd3 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x12a (size before relaxing)
+ .debug_str     0x0000021b       0xf9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                0x11e (size before relaxing)
+ .debug_str     0x00000314      0x3d4 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                                0x4b4 (size before relaxing)
+ .debug_str     0x000006e8       0x45 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                0x190 (size before relaxing)
+ .debug_str     0x0000072d      0x196 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                                0x634 (size before relaxing)
+ .debug_str     0x000008c3       0x82 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                0x48f (size before relaxing)
+ .debug_str     0x00000945       0xfb c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                0x469 (size before relaxing)
+ .debug_str     0x00000a40       0x3d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                                0x463 (size before relaxing)
+ .debug_str     0x00000a7d       0x40 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                0x183 (size before relaxing)
+ .debug_str     0x00000abd       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                0x169 (size before relaxing)
+ .debug_str     0x00000b3c      0x145 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+                                0x1e3 (size before relaxing)
+ .debug_str     0x00000c81       0x70 ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+                                0x16e (size before relaxing)
+ .debug_str     0x00000cf1      0x116 ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+                                0x4b3 (size before relaxing)
+ .debug_str     0x00000e07       0x27 ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+                                0x119 (size before relaxing)
+ .debug_str     0x00000e2e      0x159 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+                                0x2c9 (size before relaxing)
+ .debug_str     0x00000f87       0xf9 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                0x29e (size before relaxing)
+ .debug_str     0x00001080       0x77 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                0x2a6 (size before relaxing)
+ .debug_str     0x000010f7       0x48 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                0x1f0 (size before relaxing)
+ .debug_str     0x0000113f       0x4a ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                0x1e6 (size before relaxing)
+ .debug_str     0x00001189       0x42 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                                0x13c (size before relaxing)
+ .debug_str     0x000011cb       0x1b ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+                                0x1dc (size before relaxing)
+ .debug_str     0x000011e6       0x34 ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                0x126 (size before relaxing)
+ .debug_str     0x0000121a       0x50 ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+                                0x2d6 (size before relaxing)
+ .debug_str     0x0000126a       0x4b ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000012b5       0x48 ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                                 0xad (size before relaxing)
+ .debug_str     0x000012fd       0x4c ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                                 0xac (size before relaxing)
+ .debug_str     0x00001349       0x14 ../teste_butons_bsp/\libhal_bsp.a(alt_errno.o)
+                                0x116 (size before relaxing)
+ .debug_str     0x0000135d       0x34 ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                0x126 (size before relaxing)
+ .debug_str     0x00001391       0x56 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                0x2e7 (size before relaxing)
+ .debug_str     0x000013e7       0x36 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+                                0x21c (size before relaxing)
+ .debug_str     0x0000141d       0x28 ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+                                0x1b0 (size before relaxing)
+ .debug_str     0x00001445       0x3b ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                                0x12d (size before relaxing)
+ .debug_str     0x00001480       0x24 ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                0x1bd (size before relaxing)
+ .debug_str     0x000014a4       0x26 ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+                                0x1cb (size before relaxing)
+ .debug_str     0x000014ca       0x30 ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                0x1ed (size before relaxing)
+ .debug_str     0x000014fa      0x122 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                                0x235 (size before relaxing)
+ .debug_str     0x0000161c       0x4d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                                0x19b (size before relaxing)
+ .debug_str     0x00001669       0x42 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+                                0x462 (size before relaxing)
+ .debug_str     0x000016ab       0x45 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                0x18a (size before relaxing)
+ .debug_str     0x000016f0       0x40 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                                0x4b6 (size before relaxing)
+ .debug_str     0x00001730       0x64 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                                0x494 (size before relaxing)
+ .debug_str     0x00001794       0x2a ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+                                0x122 (size before relaxing)
+
+.debug_loc      0x00000000     0x2112
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x109 obj/default/hello_world.o
+ .debug_loc     0x00000109       0x93 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x0000019c       0xee c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000028a      0x125 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_loc     0x000003af       0x29 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x000003d8      0xc9d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_loc     0x00001075      0x19e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loc     0x00001213       0xde c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_loc     0x000012f1      0x338 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00001629       0x58 ../teste_butons_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_loc     0x00001681       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x000016ad       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_loc     0x000016d9       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_loc     0x00001705       0x58 ../teste_butons_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_loc     0x0000175d       0x84 ../teste_butons_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x000017e1       0x58 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_loc     0x00001839       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x00001865       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x00001891       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_loc     0x000018bd       0x58 ../teste_butons_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x00001915       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_loc     0x00001941       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x0000196d       0x58 ../teste_butons_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x000019c5       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x000019f1       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x00001a1d       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_loc     0x00001a49       0x58 ../teste_butons_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_loc     0x00001aa1       0x84 ../teste_butons_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_loc     0x00001b25       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x00001b51       0x2c ../teste_butons_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x00001b7d       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x00001ba9       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_loc     0x00001bd5       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_loc     0x00001c01       0x2c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_loc     0x00001c2d       0x3e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_loc     0x00001c6b       0x80 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fputs.o)
+ .debug_loc     0x00001ceb       0x6f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_loc     0x00001d5a      0x1f4 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_loc     0x00001f4e      0x198 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x000020e6       0x2c ../teste_butons_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x40
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x10 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x00000010       0x30 ../teste_butons_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000c000                __alt_data_end = 0xc000
+                0x0000c000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x0000ac58                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x0000ac58                PROVIDE (__alt_heap_start, end)
+                0x0000c000                PROVIDE (__alt_heap_limit, 0xc000)
+OUTPUT(teste_butons.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000      0x1f0
+ .debug_ranges  0x00000000       0x20 ../teste_butons_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x00000020      0x188 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x000001a8       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_ranges  0x000001c0       0x18 ../teste_butons_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_ranges  0x000001d8       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)

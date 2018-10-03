@@ -59,7 +59,7 @@ module Nios_Nios_test_bench (
   input   [  5: 0] D_iw_opx;
   input            D_valid;
   input            E_valid;
-  input   [ 16: 0] F_pcb;
+  input   [ 15: 0] F_pcb;
   input            F_valid;
   input            R_ctrl_ld;
   input            R_ctrl_ld_non_io;
@@ -70,11 +70,11 @@ module Nios_Nios_test_bench (
   input   [ 31: 0] W_wr_data;
   input   [ 31: 0] av_ld_data_aligned_unfiltered;
   input            clk;
-  input   [ 16: 0] d_address;
+  input   [ 15: 0] d_address;
   input   [  3: 0] d_byteenable;
   input            d_read;
   input            d_write;
-  input   [ 16: 0] i_address;
+  input   [ 15: 0] i_address;
   input            i_read;
   input   [ 31: 0] i_readdata;
   input            i_waitrequest;
@@ -124,6 +124,7 @@ module Nios_Nios_test_bench (
   wire             D_op_intr;
   wire             D_op_jmp;
   wire             D_op_jmpi;
+  wire             D_op_lcd_0;
   wire             D_op_ldb;
   wire             D_op_ldbio;
   wire             D_op_ldbu;
@@ -368,6 +369,7 @@ module Nios_Nios_test_bench (
   assign D_op_rsvx56 = D_op_opx & (D_iw_opx == 56);
   assign D_op_rsvx60 = D_op_opx & (D_iw_opx == 60);
   assign D_op_rsvx63 = D_op_opx & (D_iw_opx == 63);
+  assign D_op_lcd_0 = D_op_custom & 1'b1;
   assign D_op_opx = D_iw_op == 58;
   assign D_op_custom = D_iw_op == 50;
   assign test_has_ended = 1'b0;
