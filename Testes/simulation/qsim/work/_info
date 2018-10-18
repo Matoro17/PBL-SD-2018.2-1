@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\Testes\simulation\qsim
+vlcd_driver
+Z1 !s100 V]hMm9M>d^d2T]bR?fNo12
+Z2 IhQ8K:31Qlbj5FlT>hVk>>2
+Z3 VjR;JGK=VeifkcTWSZDmK72
+Z4 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\Testes\simulation\qsim
+Z5 w1539548874
+Z6 8Tests_PBL-SD-1.vo
+Z7 FTests_PBL-SD-1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Tests_PBL-SD-1.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1539548875.396000
+Z12 !s107 Tests_PBL-SD-1.vo|
+!s101 -O0
+vlcd_driver_vlg_check_tst
+!i10b 1
+Z13 !s100 KmUdhohYY[8OC9k[`DEZN3
+Z14 Ie7mWZn]6=h<5<DnXhNd5F2
+Z15 V]D:I@UKhm4G9P5joL9m:N2
+R4
+Z16 w1539548872
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z19 !s108 1539548875.635000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vlcd_driver_vlg_sample_tst
+!i10b 1
+Z22 !s100 U8^@BI4cg54=?4gTkaeb<1
+Z23 IW:?CzX:n^fkMn0k>>JoHg3
+Z24 VIUNGdQ2=:lmP3eNIjeQCk0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vlcd_driver_vlg_vec_tst
+!i10b 1
+Z25 !s100 f`Sd5aNjkQHO?A<obHO8G3
+Z26 IDbVUa6IdGhC<`a?lSaDN@0
+Z27 V@RRBI<:P_@^@iQ]6>K1RQ2
+R4
+R16
+R17
+R18
+Z28 L0 400
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

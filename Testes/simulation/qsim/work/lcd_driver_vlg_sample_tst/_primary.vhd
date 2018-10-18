@@ -1,0 +1,13 @@
+library verilog;
+use verilog.vl_types.all;
+entity lcd_driver_vlg_sample_tst is
+    port(
+        clk             : in     vl_logic;
+        clk_en          : in     vl_logic;
+        dataa           : in     vl_logic_vector(31 downto 0);
+        datab           : in     vl_logic_vector(31 downto 0);
+        reset           : in     vl_logic;
+        start           : in     vl_logic;
+        sampler_tx      : out    vl_logic
+    );
+end lcd_driver_vlg_sample_tst;

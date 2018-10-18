@@ -1,5 +1,5 @@
 Flow report for PBL-SD-1
-Wed Oct 03 19:52:35 2018
+Wed Oct 17 20:49:32 2018
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
 
 
@@ -40,15 +40,15 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------+
 ; Flow Summary                                                                    ;
 +------------------------------------+--------------------------------------------+
-; Flow Status                        ; Successful - Wed Oct 03 19:52:26 2018      ;
+; Flow Status                        ; Successful - Wed Oct 17 20:49:32 2018      ;
 ; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Web Edition ;
 ; Revision Name                      ; PBL-SD-1                                   ;
 ; Top-level Entity Name              ; Nios                                       ;
 ; Family                             ; Cyclone IV E                               ;
 ; Device                             ; EP4CE6E22C8                                ;
 ; Timing Models                      ; Final                                      ;
-; Total logic elements               ; 1,836 / 6,272 ( 29 % )                     ;
-;     Total combinational functions  ; 1,722 / 6,272 ( 27 % )                     ;
+; Total logic elements               ; 1,840 / 6,272 ( 29 % )                     ;
+;     Total combinational functions  ; 1,726 / 6,272 ( 28 % )                     ;
 ;     Dedicated logic registers      ; 1,016 / 6,272 ( 16 % )                     ;
 ; Total registers                    ; 1016                                       ;
 ; Total pins                         ; 23 / 92 ( 25 % )                           ;
@@ -64,7 +64,7 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 10/03/2018 19:51:39 ;
+; Start date & time ; 10/17/2018 20:47:55 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; PBL-SD-1            ;
 +-------------------+---------------------+
@@ -75,8 +75,9 @@ applicable agreement for further details.
 +-------------------------------------+--------------------------------------------------------+---------------+----------------------------------------------------+----------------+
 ; Assignment Name                     ; Value                                                  ; Default Value ; Entity Name                                        ; Section Id     ;
 +-------------------------------------+--------------------------------------------------------+---------------+----------------------------------------------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 229335795667846.153860709910140                        ; --            ; --                                                 ; --             ;
-; EDA_OUTPUT_DATA_FORMAT              ; None                                                   ; --            ; --                                                 ; eda_simulation ;
+; COMPILER_SIGNATURE_ID               ; 229335795667846.153982007405624                        ; --            ; --                                                 ; --             ;
+; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                                            ; --            ; --                                                 ; eda_simulation ;
+; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)                              ; <None>        ; --                                                 ; --             ;
 ; IP_TOOL_ENV                         ; Qsys                                                   ; --            ; Nios                                               ; --             ;
 ; IP_TOOL_ENV                         ; Qsys                                                   ; --            ; Nios_Jtag                                          ; --             ;
 ; IP_TOOL_ENV                         ; Qsys                                                   ; --            ; Nios_Nios                                          ; --             ;
@@ -176,7 +177,7 @@ applicable agreement for further details.
 ; PROJECT_OUTPUT_DIRECTORY            ; output_files                                           ; --            ; --                                                 ; --             ;
 ; SLD_FILE                            ; Nios/synthesis/Nios.regmap                             ; --            ; --                                                 ; --             ;
 ; SLD_FILE                            ; Nios/synthesis/Nios.debuginfo                          ; --            ; --                                                 ; --             ;
-; SLD_INFO                            ; QSYS_NAME Nios HAS_SOPCINFO 1 GENERATION_ID 1538606729 ; --            ; Nios                                               ; --             ;
+; SLD_INFO                            ; QSYS_NAME Nios HAS_SOPCINFO 1 GENERATION_ID 1539820022 ; --            ; Nios                                               ; --             ;
 ; SOPCINFO_FILE                       ; Nios/synthesis/../../Nios.sopcinfo                     ; --            ; --                                                 ; --             ;
 ; SYNTHESIS_ONLY_QIP                  ; On                                                     ; --            ; --                                                 ; --             ;
 ; TOP_LEVEL_ENTITY                    ; Nios                                                   ; PBL-SD-1      ; --                                                 ; --             ;
@@ -188,11 +189,12 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:21     ; 1.0                     ; 4788 MB             ; 00:00:18                           ;
-; Fitter                    ; 00:00:16     ; 1.0                     ; 5039 MB             ; 00:00:16                           ;
-; Assembler                 ; 00:00:02     ; 1.0                     ; 4608 MB             ; 00:00:02                           ;
-; TimeQuest Timing Analyzer ; 00:00:06     ; 1.0                     ; 4674 MB             ; 00:00:05                           ;
-; Total                     ; 00:00:45     ; --                      ; --                  ; 00:00:41                           ;
+; Analysis & Synthesis      ; 00:00:35     ; 1.0                     ; 4789 MB             ; 00:00:30                           ;
+; Fitter                    ; 00:00:26     ; 1.0                     ; 5037 MB             ; 00:00:24                           ;
+; Assembler                 ; 00:00:02     ; 1.0                     ; 4601 MB             ; 00:00:03                           ;
+; TimeQuest Timing Analyzer ; 00:00:09     ; 1.0                     ; 4690 MB             ; 00:00:07                           ;
+; EDA Netlist Writer        ; 00:00:09     ; 1.0                     ; 4594 MB             ; 00:00:07                           ;
+; Total                     ; 00:01:21     ; --                      ; --                  ; 00:01:11                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -205,6 +207,7 @@ applicable agreement for further details.
 ; Fitter                    ; DESKTOP-7CV30UR  ; Windows 7 ; 6.2        ; x86_64         ;
 ; Assembler                 ; DESKTOP-7CV30UR  ; Windows 7 ; 6.2        ; x86_64         ;
 ; TimeQuest Timing Analyzer ; DESKTOP-7CV30UR  ; Windows 7 ; 6.2        ; x86_64         ;
+; EDA Netlist Writer        ; DESKTOP-7CV30UR  ; Windows 7 ; 6.2        ; x86_64         ;
 +---------------------------+------------------+-----------+------------+----------------+
 
 
@@ -215,6 +218,7 @@ quartus_map --read_settings_files=on --write_settings_files=off PBL-SD-1 -c PBL-
 quartus_fit --read_settings_files=off --write_settings_files=off PBL-SD-1 -c PBL-SD-1
 quartus_asm --read_settings_files=off --write_settings_files=off PBL-SD-1 -c PBL-SD-1
 quartus_sta PBL-SD-1 -c PBL-SD-1
+quartus_eda --read_settings_files=off --write_settings_files=off PBL-SD-1 -c PBL-SD-1
 
 
 

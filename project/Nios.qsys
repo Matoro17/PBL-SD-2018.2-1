@@ -156,11 +156,11 @@
          type = "int";
       }
    }
-   element led_2.s1
+   element led_1.s1
    {
       datum baseAddress
       {
-         value = "36992";
+         value = "37008";
          type = "String";
       }
    }
@@ -172,6 +172,14 @@
          type = "String";
       }
    }
+   element pushbutton_2.s1
+   {
+      datum baseAddress
+      {
+         value = "37024";
+         type = "String";
+      }
+   }
    element led_3.s1
    {
       datum baseAddress
@@ -180,27 +188,11 @@
          type = "String";
       }
    }
-   element led_4.s1
+   element led_2.s1
    {
       datum baseAddress
       {
-         value = "36960";
-         type = "String";
-      }
-   }
-   element led_5.s1
-   {
-      datum baseAddress
-      {
-         value = "36928";
-         type = "String";
-      }
-   }
-   element led_1.s1
-   {
-      datum baseAddress
-      {
-         value = "37008";
+         value = "36992";
          type = "String";
       }
    }
@@ -220,19 +212,11 @@
          type = "String";
       }
    }
-   element dip_1.s1
+   element led_5.s1
    {
       datum baseAddress
       {
-         value = "36896";
-         type = "String";
-      }
-   }
-   element pushbutton_2.s1
-   {
-      datum baseAddress
-      {
-         value = "37024";
+         value = "36928";
          type = "String";
       }
    }
@@ -241,6 +225,22 @@
       datum baseAddress
       {
          value = "36880";
+         type = "String";
+      }
+   }
+   element led_4.s1
+   {
+      datum baseAddress
+      {
+         value = "36960";
+         type = "String";
+      }
+   }
+   element dip_1.s1
+   {
+      datum baseAddress
+      {
+         value = "36896";
          type = "String";
       }
    }

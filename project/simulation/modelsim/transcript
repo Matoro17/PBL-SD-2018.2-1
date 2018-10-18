@@ -1,0 +1,29 @@
+# Compile of lcd_driver.v was successful.
+vsim Nios.lcd_driver
+# vsim Nios.lcd_driver 
+# Loading Nios.lcd_driver
+add wave -position end  sim:/lcd_driver/dataa
+add wave -position end  sim:/lcd_driver/datab
+add wave -position end  sim:/lcd_driver/clk
+add wave -position end  sim:/lcd_driver/clk_en
+add wave -position end  sim:/lcd_driver/start
+add wave -position end  sim:/lcd_driver/reset
+add wave -position end  sim:/lcd_driver/result
+add wave -position end  sim:/lcd_driver/done
+add wave -position end  sim:/lcd_driver/rs
+add wave -position end  sim:/lcd_driver/rw
+add wave -position end  sim:/lcd_driver/en
+add wave -position end  sim:/lcd_driver/db
+force -freeze sim:/lcd_driver/reset 0 0
+force -freeze sim:/lcd_driver/start 1 1 -cancel 10
+force -freeze sim:/lcd_driver/clk_en 1 2 -cancel 10
+force -freeze sim:/lcd_driver/clk 1 0, 0 {2 ps} -r 5
+force -freeze {sim:/lcd_driver/dataa[0]} 0 0, 1 {50 ps} -r 100
+force -freeze {sim:/lcd_driver/dataa[0]} 0 0, 1 {25 ps} -r 50
+force -freeze {sim:/lcd_driver/datab[0]} 0 0, 1 {25 ps} -r 50
+force -freeze {sim:/lcd_driver/datab[1]} 0 0, 1 {20 ps} -r 40
+force -freeze {sim:/lcd_driver/datab[2]} 0 0, 1 {15 ps} -r 30
+force -freeze {sim:/lcd_driver/datab[3]} 0 0, 1 {10 ps} -r 20
+run
+force -freeze sim:/lcd_driver/clk_en 1 1 -cancel 30
+run

@@ -1,0 +1,1474 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\project\simulation\modelsim
+valtera_avalon_sc_fifo
+Z1 !s100 Ka<BREMLPR<beG4zcb;Xo2
+Z2 IUOZbPY<G4c`Pe[lT3jPjL3
+Z3 VjOzUMS5nAQIa6?lLKEfID0
+Z4 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\project\simulation\modelsim
+Z5 w1538606772
+Z6 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_avalon_sc_fifo.v
+Z7 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_avalon_sc_fifo.v
+L0 21
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_avalon_sc_fifo.v|
+Z10 o-vlog01compat -work Nios -O0
+Z11 !s92 -vlog01compat -work Nios +incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules -O0
+Z12 !s108 1539279392.035000
+Z13 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_customins_master_translator
+Z14 !s100 P5:FS8XRATh543G0k_Yna3
+Z15 IlXEGehmHBYzcj@McgBmDj2
+Z16 VdAc=X72D_>P6ooN^mH@n82
+R4
+Z17 w1538606767
+Z18 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_master_translator.v
+Z19 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_master_translator.v
+L0 23
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_master_translator.v|
+R10
+R11
+Z21 !s108 1539279392.687000
+Z22 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_master_translator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_customins_slave_translator
+Z23 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z24 !s100 3Sg6nj7gjUGCN]AX4lS<`0
+Z25 I0HTL7GJSDWPBIH:Y`JXQI2
+Z26 VBeILIW^79ao`QTAOQ0lGB2
+Z27 !s105 altera_customins_slave_translator_sv_unit
+S1
+R4
+Z28 w1538606768
+Z29 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_slave_translator.sv
+Z30 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_slave_translator.sv
+L0 23
+R8
+r1
+31
+Z31 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_slave_translator.sv|
+Z32 o-sv -work Nios -O0
+Z33 !s92 -sv -work Nios +incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules -O0
+Z34 !s108 1539279414.962000
+Z35 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_customins_slave_translator.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_arb_adder
+R23
+Z36 !s100 dheRb^hN[:gL`_BDXb`2d0
+Z37 IQ[TS3OzmCXUkXXdKR_dH[2
+Z38 VeEm48mj>0hhNR4acO5n:k1
+Z39 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R4
+Z40 w1538606773
+Z41 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_arbitrator.sv
+Z42 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_arbitrator.sv
+Z43 L0 228
+R8
+r1
+31
+Z44 !s108 1539279403.862000
+Z45 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z46 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_arbitrator.sv|
+R32
+R33
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_arbitrator
+R23
+Z47 !s100 ;B[TWiB5aXG=GNfo9k6CM3
+Z48 IEPZ4?dQ2Q9KSAdV<`CPWG2
+Z49 VkoHZHN`N_KjQAPBBQ3eh^0
+R39
+S1
+R4
+R40
+R41
+R42
+Z50 L0 103
+R8
+r1
+31
+R44
+R45
+R46
+R32
+R33
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_burst_uncompressor
+R23
+Z51 !s100 <a89O1B2bD_mEWB0O`TQ^3
+Z52 IIzYOlj7;324NVP[Yj`R6d0
+Z53 Vk1gIA`RY2OQ1N9QbTULJo2
+Z54 !s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R4
+R5
+Z55 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+Z56 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R8
+r1
+31
+Z57 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+R32
+R33
+Z58 !s108 1539279412.838000
+Z59 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_master_agent
+R23
+Z60 !s100 2G@A0XVH_:M=oKO;URH?i0
+Z61 IJN^F8<BDjof]Oh5cEgg3f1
+Z62 VYel@_D9Z3GMJnnIn70BPJ0
+Z63 !s105 altera_merlin_master_agent_sv_unit
+S1
+R4
+Z64 w1538606771
+Z65 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_agent.sv
+Z66 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R8
+r1
+31
+Z67 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_agent.sv|
+R32
+R33
+Z68 !s108 1539279413.363000
+Z69 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_agent.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_master_translator
+R23
+Z70 !s100 6komK:dUU:@4XdkcDbTRI3
+Z71 I3RD;W0_EUaT9:zI<Bc]G20
+Z72 V0KIH7<bW[IFhHJBzB4US?0
+Z73 !s105 altera_merlin_master_translator_sv_unit
+S1
+R4
+R64
+Z74 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_translator.sv
+Z75 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_translator.sv
+L0 30
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_translator.sv|
+R32
+R33
+Z77 !s108 1539279414.618000
+Z78 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_master_translator.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_slave_agent
+R23
+Z79 !s100 HINQb;dKc>Bb7FZEHISNZ3
+Z80 Ilkka3h>8fbbXl2Q_Tdj8W3
+Z81 VQRTL2;ok>5F_@1VCn>z^^3
+Z82 !s105 altera_merlin_slave_agent_sv_unit
+S1
+R4
+R5
+Z83 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_agent.sv
+Z84 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_agent.sv|
+R32
+R33
+Z86 !s108 1539279411.163000
+Z87 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_merlin_slave_translator
+R23
+Z88 !s100 h8lR4==Z[K:Z62lM[Z@R@0
+Z89 IG47]3eTliAZC?IS0=bl^X2
+Z90 VA6G6lglY;QOHbkKlTEAXC0
+Z91 !s105 altera_merlin_slave_translator_sv_unit
+S1
+R4
+R64
+Z92 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_translator.sv
+Z93 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R8
+r1
+31
+Z94 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_translator.sv|
+R32
+R33
+Z95 !s108 1539279413.686000
+Z96 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_reset_controller
+Z97 !s100 ?^ORO`>Gjc9]U?Wk1adoU1
+Z98 I:U3VnHGaW45QCm:F3CMm:1
+Z99 Vd6XZeNR]PniX]Sml3E;hm2
+R4
+R64
+Z100 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_controller.v
+Z101 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_controller.v
+L0 42
+R8
+r1
+31
+Z102 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_controller.v|
+R10
+R11
+Z103 !s108 1539279390.519000
+Z104 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_reset_synchronizer
+Z105 !s100 7S70VC_UBOJ0<L_Q]RH`V1
+Z106 II]h?46mFK6A:D;GgQKjDM0
+Z107 V3CjoOZCIEdzCJgPn8]D7`2
+R4
+R64
+Z108 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_synchronizer.v
+Z109 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_synchronizer.v|
+R10
+R11
+Z111 !s108 1539279391.083000
+Z112 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/altera_reset_synchronizer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlcd_driver
+Z113 !s100 0GCGS0CDhXnVOPa:@z;W42
+Z114 IBo];Ezdn4CJ4DGAF6eT4e3
+Z115 VjR;JGK=VeifkcTWSZDmK72
+R4
+Z116 w1538606766
+Z117 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v
+Z118 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v
+L0 2
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v|
+R10
+R11
+Z120 !s108 1539279393.739000
+Z121 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios
+!i10b 1
+Z122 !s100 :4DGAL?Qd_;kc`n8N5T3d0
+Z123 IQGK4EH<h@mWaC<NfTmE=H3
+Z124 VnEP@=8Ba4gZ4klGf]NL8R2
+R4
+Z125 w1538606743
+Z126 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/Nios.v
+Z127 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/Nios.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1539803015.474000
+!s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/Nios.v|
+Z128 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/Nios.v|
+!s101 -O0
+R10
+Z129 !s92 -vlog01compat -work Nios +incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis -O0
+Z130 n@nios
+vNios_dip_0
+Z131 !s100 6LC@X<8T3J[W:<]dT;@d:1
+Z132 IlXioiEX_WhX1?on@_HV_n0
+Z133 V0ORe^VgCCWKRZ:ICANA<21
+R4
+R17
+Z134 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_dip_0.v
+Z135 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_dip_0.v
+L0 21
+R8
+r1
+31
+Z136 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_dip_0.v|
+R10
+R11
+Z137 n@nios_dip_0
+Z138 !s108 1539279392.983000
+Z139 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_dip_0.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_irq_mapper
+R23
+Z140 !s100 oZiUbfg?HUcYEAo8KI9zS2
+Z141 IMz:H5aKCLJ6?>z=::9[h91
+Z142 VF_^?=o<R9Q=oIdOJ<dmkz1
+Z143 !s105 Nios_irq_mapper_sv_unit
+S1
+R4
+R64
+Z144 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_irq_mapper.sv
+Z145 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_irq_mapper.sv
+L0 31
+R8
+r1
+31
+Z146 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_irq_mapper.sv|
+R32
+R33
+Z147 n@nios_irq_mapper
+Z148 !s108 1539279403.395000
+Z149 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_irq_mapper.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Jtag
+Z150 !s100 ]P5:545ZSecYSM<b426UM0
+Z151 Ib`Cb>iz_nU;3k52EJDhd82
+Z152 VoXLIK8kO92i]NM^[7oMf:2
+R4
+R116
+Z153 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Jtag.v
+Z154 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Jtag.v
+Z155 L0 327
+R8
+r1
+31
+Z156 !s108 1539279393.995000
+Z157 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Jtag.v|
+Z158 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Jtag.v|
+R10
+R11
+Z159 n@nios_@jtag
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Jtag_scfifo_r
+Z160 !s100 5H=9CDl;oJ>HhEW]684QW0
+Z161 IzmTSm?3f5Ued9a9NYN7I]1
+Z162 V`Um6`QgUTPn5NPVhbU8[A3
+R4
+R116
+R153
+R154
+Z163 L0 240
+R8
+r1
+31
+R156
+R157
+R158
+R10
+R11
+Z164 n@nios_@jtag_scfifo_r
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Jtag_scfifo_w
+Z165 !s100 oJPmj;B5aD?k1N5J:JJ1z0
+Z166 IkB1WnDjLCAU7iI=Pn<_RL3
+Z167 V3T4P^T]D_MzjQdSRRNgYd3
+R4
+R116
+R153
+R154
+L0 77
+R8
+r1
+31
+R156
+R157
+R158
+R10
+R11
+Z168 n@nios_@jtag_scfifo_w
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Jtag_sim_scfifo_r
+Z169 !s100 0H4`6;YJCj0BMk_=Lf0gZ0
+Z170 IYe6Ih[lMjH]KWmT9RYh3]1
+Z171 V0C3a[QM?a5GMHo;35VKom1
+R4
+R116
+R153
+R154
+Z172 L0 162
+R8
+r1
+31
+R156
+R157
+R158
+R10
+R11
+Z173 n@nios_@jtag_sim_scfifo_r
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Jtag_sim_scfifo_w
+Z174 !s100 lDaXOC]mXS@GbK<oMkeCF2
+Z175 ITN3@4Y:J=0]TidKMe<ehg0
+Z176 V9]dkA?:_biDV;hT^[F68j1
+R4
+R116
+R153
+R154
+L0 21
+R8
+r1
+31
+R156
+R157
+R158
+R10
+R11
+Z177 n@nios_@jtag_sim_scfifo_w
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_led_1
+Z178 !s100 ;0C;OBCS@b1:@MAQ2b_oB0
+Z179 IG?MkLm[?fR;b56CSha0[m3
+Z180 V[g_TFFBYC;flEdLjTzf=[2
+R4
+R17
+Z181 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_led_1.v
+Z182 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_led_1.v
+L0 21
+R8
+r1
+31
+Z183 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_led_1.v|
+R10
+R11
+Z184 n@nios_led_1
+Z185 !s108 1539279393.235000
+Z186 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_led_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_memory
+Z187 !s100 QMSW00NWUGhS:V:FN;adc2
+Z188 ICFl=Z:PdZY9_dR@4m7M<C3
+Z189 VD<4<Q93E5337=B5aM=_?D2
+R4
+Z190 w1538606748
+Z191 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_memory.v
+Z192 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_memory.v
+L0 21
+R8
+r1
+31
+Z193 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_memory.v|
+R10
+R11
+Z194 n@nios_memory
+Z195 !s108 1539279403.118000
+Z196 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0
+Z197 !s100 9BE>^ecKM6@0EKYPAZEn53
+Z198 IMaDY0oV3h4Ya=?bJYMBnK0
+Z199 VI`0oE_OcZP=ceQg2ik=FP1
+R4
+R64
+Z200 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0.v
+Z201 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0.v
+L0 9
+R8
+r1
+31
+Z202 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0.v|
+R10
+R11
+Z203 n@nios_mm_interconnect_0
+Z204 !s108 1539279391.339000
+Z205 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_addr_router
+R23
+Z206 !s100 Wl<KiY;>3@UKdXaHR8nQn2
+Z207 If_iPXndec=Fadi6=jME^81
+Z208 V7FGTf9;;]>gZLF@l>RfZB1
+Z209 !s105 Nios_mm_interconnect_0_addr_router_sv_unit
+S1
+R4
+R5
+Z210 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router.sv
+Z211 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router.sv
+L0 86
+R8
+r1
+31
+Z212 !s108 1539279410.322000
+Z213 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router.sv|
+Z214 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router.sv|
+R32
+R33
+Z215 n@nios_mm_interconnect_0_addr_router
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_addr_router_001
+R23
+Z216 !s100 jYIfdblz`bKoMg7842L[F1
+Z217 If6^T;FYiaBgBKDPTahWFc3
+Z218 VakjORW>GXc7:^f17GZG2Z1
+Z219 !s105 Nios_mm_interconnect_0_addr_router_001_sv_unit
+S1
+R4
+R5
+Z220 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router_001.sv
+Z221 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router_001.sv
+L0 86
+R8
+r1
+31
+Z222 !s108 1539279408.663000
+Z223 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router_001.sv|
+Z224 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_addr_router_001.sv|
+R32
+R33
+Z225 n@nios_mm_interconnect_0_addr_router_001
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_addr_router_001_default_decode
+R23
+Z226 !s100 AfYBjdc]7Hi;Oa]5BMd5T3
+Z227 Iio;FQna=9RoUOg;5<Gzja2
+Z228 V@7n`6kU;BHNCf87hf:68O3
+R219
+S1
+R4
+R5
+R220
+R221
+L0 45
+R8
+r1
+31
+R222
+R223
+R224
+R32
+R33
+Z229 n@nios_mm_interconnect_0_addr_router_001_default_decode
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_addr_router_default_decode
+R23
+Z230 !s100 lRchWnnCMIbPfF]`0a@=21
+Z231 I>Z5e]Az;5cMV9::J:=8ON0
+Z232 V_f9I2_W?CO^AbKLzG:h<e0
+R209
+S1
+R4
+R5
+R210
+R211
+L0 45
+R8
+r1
+31
+R212
+R213
+R214
+R32
+R33
+Z233 n@nios_mm_interconnect_0_addr_router_default_decode
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_cmd_xbar_demux
+R23
+Z234 !s100 zLaj=@66UGEJG9KjkR6Ue0
+Z235 IKLC6gZgOV2f6_LFMB;z0M2
+Z236 VM6N7BB[_Rf9zNKSYkJX8>0
+Z237 !s105 Nios_mm_interconnect_0_cmd_xbar_demux_sv_unit
+S1
+R4
+R5
+Z238 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux.sv
+Z239 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux.sv
+L0 43
+R8
+r1
+31
+Z240 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux.sv|
+R32
+R33
+Z241 n@nios_mm_interconnect_0_cmd_xbar_demux
+Z242 !s108 1539279406.618000
+Z243 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_cmd_xbar_demux_001
+R23
+Z244 !s100 Ph?;GQ@ieQKM35leIE?k<0
+Z245 Ik>0CeZV5PaUM_FPXFAEPE3
+Z246 V3Ogci:Cz[65H?`@iGWNYi2
+Z247 !s105 Nios_mm_interconnect_0_cmd_xbar_demux_001_sv_unit
+S1
+R4
+R5
+Z248 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux_001.sv
+Z249 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux_001.sv
+L0 43
+R8
+r1
+31
+Z250 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux_001.sv|
+R32
+R33
+Z251 n@nios_mm_interconnect_0_cmd_xbar_demux_001
+Z252 !s108 1539279406.298000
+Z253 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_demux_001.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_cmd_xbar_mux
+R23
+Z254 !s100 eemZ<WOG;f[[lKYWEQ8AV1
+Z255 IbigSziZl19@694^@?]Rgd1
+Z256 VVU`5^DmOH?dX0A@DdCaR<3
+Z257 !s105 Nios_mm_interconnect_0_cmd_xbar_mux_sv_unit
+S1
+R4
+R40
+Z258 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux.sv
+Z259 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux.sv
+L0 38
+R8
+r1
+31
+Z260 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux.sv|
+R32
+R33
+Z261 n@nios_mm_interconnect_0_cmd_xbar_mux
+Z262 !s108 1539279405.742000
+Z263 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_cmd_xbar_mux_002
+R23
+Z264 !s100 h=3=jJ>RiXbCTz7H7eOS21
+Z265 I[mg^Uh<3O1PioDaaa3gcU2
+Z266 V``f:3i4iRz[VS8noLO@Ch1
+Z267 !s105 Nios_mm_interconnect_0_cmd_xbar_mux_002_sv_unit
+S1
+R4
+R40
+Z268 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux_002.sv
+Z269 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux_002.sv
+L0 38
+R8
+r1
+31
+Z270 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux_002.sv|
+R32
+R33
+Z271 n@nios_mm_interconnect_0_cmd_xbar_mux_002
+Z272 !s108 1539279405.482000
+Z273 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_cmd_xbar_mux_002.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_id_router
+R23
+Z274 !s100 aHJ:i]6bzFcHCbgiRBZeH1
+Z275 Ih9SBRij]knVnV>_AnMXTH1
+Z276 VSWUG060J79`2IAlPbNEBQ2
+Z277 !s105 Nios_mm_interconnect_0_id_router_sv_unit
+S1
+R4
+R5
+Z278 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router.sv
+Z279 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router.sv
+L0 86
+R8
+r1
+31
+Z280 !s108 1539279407.798000
+Z281 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router.sv|
+Z282 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router.sv|
+R32
+R33
+Z283 n@nios_mm_interconnect_0_id_router
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_id_router_002
+R23
+Z284 !s100 Hb^b`;BCI]ESBXob_Bnki0
+Z285 I?V[M=kl^?9QhMDXA6AS4c0
+Z286 VmP6G5hzOI52HCE>IdLnMJ1
+Z287 !s105 Nios_mm_interconnect_0_id_router_002_sv_unit
+S1
+R4
+R5
+Z288 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router_002.sv
+Z289 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router_002.sv
+L0 86
+R8
+r1
+31
+Z290 !s108 1539279407.254000
+Z291 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router_002.sv|
+Z292 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_id_router_002.sv|
+R32
+R33
+Z293 n@nios_mm_interconnect_0_id_router_002
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_id_router_002_default_decode
+R23
+Z294 !s100 46Z58Hkg[A[oMV^<^8en20
+Z295 I:bI@@aWDHz9ocNWP3AbBM1
+Z296 Vm[SWDjR6S@@jVG6bUo1eA2
+R287
+S1
+R4
+R5
+R288
+R289
+L0 45
+R8
+r1
+31
+R290
+R291
+R292
+R32
+R33
+Z297 n@nios_mm_interconnect_0_id_router_002_default_decode
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_id_router_default_decode
+R23
+Z298 !s100 zoWRK50Va3KKn10oTQj8^1
+Z299 IJJ;k_@V4n^C=I6?<n6E_?0
+Z300 VXT4ERoYdI<GeZiCm6c9^k1
+R277
+S1
+R4
+R5
+R278
+R279
+L0 45
+R8
+r1
+31
+R280
+R281
+R282
+R32
+R33
+Z301 n@nios_mm_interconnect_0_id_router_default_decode
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_rsp_xbar_demux_002
+R23
+Z302 !s100 82`Yhc?4a^4Vcc8Xkim3P1
+Z303 Im]h4eZLg_0=D`F:FW81CF1
+Z304 VNmW^YPfY[bA8=C_[K7R5=1
+Z305 !s105 Nios_mm_interconnect_0_rsp_xbar_demux_002_sv_unit
+S1
+R4
+R40
+Z306 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_demux_002.sv
+Z307 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_demux_002.sv
+L0 43
+R8
+r1
+31
+Z308 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_demux_002.sv|
+R32
+R33
+Z309 n@nios_mm_interconnect_0_rsp_xbar_demux_002
+Z310 !s108 1539279405.083000
+Z311 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_demux_002.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_rsp_xbar_mux
+R23
+Z312 !s100 CbBG71BGm=Ta_7aRAHgIM2
+Z313 IW:Bg0gdWF2UlfgA]UL[Bz2
+Z314 VoS06KSoEmWB]BLbL`bbhg0
+Z315 !s105 Nios_mm_interconnect_0_rsp_xbar_mux_sv_unit
+S1
+R4
+R40
+Z316 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux.sv
+Z317 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux.sv
+L0 38
+R8
+r1
+31
+Z318 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux.sv|
+R32
+R33
+Z319 n@nios_mm_interconnect_0_rsp_xbar_mux
+Z320 !s108 1539279404.754000
+Z321 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_mm_interconnect_0_rsp_xbar_mux_001
+R23
+Z322 !s100 WnBZknloOBn:D42EM3^VI2
+Z323 IYbFUbHYS3F3Bg=G]RRg?:2
+Z324 V?]k5=]7N15SW4VQZP>?KO0
+Z325 !s105 Nios_mm_interconnect_0_rsp_xbar_mux_001_sv_unit
+S1
+R4
+R40
+Z326 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux_001.sv
+Z327 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux_001.sv
+L0 38
+R8
+r1
+31
+Z328 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux_001.sv|
+R32
+R33
+Z329 n@nios_mm_interconnect_0_rsp_xbar_mux_001
+Z330 !s108 1539279404.427000
+Z331 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_mm_interconnect_0_rsp_xbar_mux_001.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios
+Z332 !s100 JVzn_d^i3bA6:o[f8OU1X0
+Z333 I^oR:NWEb^]C7]NKnEPVn91
+Z334 V@I8IA^?`H`IPdnOnC=1zC1
+R4
+Z335 w1538606764
+Z336 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v
+Z337 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v
+Z338 L0 3166
+R8
+r1
+31
+Z339 !s108 1539279396.067000
+Z340 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v|
+Z341 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios.v|
+R10
+R11
+Z342 n@nios_@nios
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_custom_instruction_master_multi_xconnect
+R23
+Z343 !s100 =LTF[7g=Z962Ui=0H98oO0
+Z344 IH>Xff<oedW=350WQoSa8i2
+Z345 VdER<WdCUBPmd5ja@Si;IJ1
+Z346 !s105 Nios_Nios_custom_instruction_master_multi_xconnect_sv_unit
+S1
+R4
+R28
+Z347 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_custom_instruction_master_multi_xconnect.sv
+Z348 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_custom_instruction_master_multi_xconnect.sv
+L0 27
+R8
+r1
+31
+Z349 !s90 -reportprogress|300|-sv|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_custom_instruction_master_multi_xconnect.sv|
+R32
+R33
+Z350 n@nios_@nios_custom_instruction_master_multi_xconnect
+!i10b 1
+!s85 0
+Z351 !s108 1539279415.311000
+Z352 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_custom_instruction_master_multi_xconnect.sv|
+!s101 -O0
+vNios_Nios_jtag_debug_module_sysclk
+Z353 !s100 a6CjBnHbAL7PBDReL>:>o3
+Z354 I3hDGU^O5AaU^3ko:WUG873
+Z355 VAGfTCz80HcUjm3[M]1ze@2
+R4
+R335
+Z356 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_sysclk.v
+Z357 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_sysclk.v
+L0 21
+R8
+r1
+31
+Z358 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_sysclk.v|
+R10
+R11
+Z359 n@nios_@nios_jtag_debug_module_sysclk
+Z360 !s108 1539279401.075000
+Z361 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_sysclk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_jtag_debug_module_tck
+Z362 !s100 LT<BVbe3bPV4Ud4UFPa5a2
+Z363 Id1=1c8dF=7P5XDWTcD;0k3
+Z364 V03AZh@9]COhdaj9ed_BdJ2
+R4
+R335
+Z365 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_tck.v
+Z366 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_tck.v
+L0 21
+R8
+r1
+31
+Z367 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_tck.v|
+R10
+R11
+Z368 n@nios_@nios_jtag_debug_module_tck
+Z369 !s108 1539279401.463000
+Z370 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_tck.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_jtag_debug_module_wrapper
+Z371 !s100 VaIiPW535=F=OkRl50nAY2
+Z372 IVGC7WD`h4Db?Y><P3l1Qk2
+Z373 Vn=f1CALHIM3i=5`<Y@;:a0
+R4
+R335
+Z374 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_wrapper.v
+Z375 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_wrapper.v
+L0 21
+R8
+r1
+31
+Z376 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_wrapper.v|
+R10
+R11
+Z377 n@nios_@nios_jtag_debug_module_wrapper
+Z378 !s108 1539279401.898000
+Z379 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_jtag_debug_module_wrapper.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_avalon_reg
+Z380 !s100 U^?D<F^fNJMb<`W9N9^@12
+Z381 IdYmhMjOH3AEzc93[mTNPc3
+Z382 VjN6Q7ED4mf0PM6eUU@kcZ3
+R4
+R335
+R336
+R337
+Z383 L0 536
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z384 n@nios_@nios_nios2_avalon_reg
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci
+Z385 !s100 _VAAWKIDJml<g4]`PhIZG3
+Z386 IIR:@X0D>?9VIZYaABBYNn0
+Z387 Vg5:6^[G><FiIQ>XIj35Go3
+R4
+R335
+R336
+R337
+Z388 L0 2658
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z389 n@nios_@nios_nios2_oci
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_break
+Z390 !s100 =<C5k9PfG6UW>6PRj4g4@0
+Z391 I^U:b;2OSF1bKbT>Wfkc@g3
+Z392 VlZR2kBC:8obi<X<?`3bRT3
+R4
+R335
+R336
+R337
+Z393 L0 628
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z394 n@nios_@nios_nios2_oci_break
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_compute_input_tm_cnt
+Z395 !s100 SB<=b3GAOe>989POf@eZL2
+Z396 I`QNPLm^NgL2^<P29UB1JX3
+Z397 V?eN9m8MN@<=aKkY:zNMTo1
+R4
+R335
+R336
+R337
+Z398 L0 1798
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z399 n@nios_@nios_nios2_oci_compute_input_tm_cnt
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_dbrk
+Z400 !s100 F0e@m`ZBzRRKd0=O=Xdmm2
+Z401 I2`oc0AIN6FMHGN80cfF1B2
+Z402 VUOMUMVc8?ceal=f:c9K7e1
+R4
+R335
+R336
+R337
+Z403 L0 1128
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z404 n@nios_@nios_nios2_oci_dbrk
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_debug
+Z405 !s100 41R5m;f7Th@A]DH=OcU453
+Z406 I;?oTAd@z[5<97TbYcN0WQ0
+Z407 V<CI^=`TjY?TmEGKUTZ;=j3
+R4
+R335
+R336
+R337
+Z408 L0 151
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z409 n@nios_@nios_nios2_oci_debug
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_dtrace
+Z410 !s100 adGBTD@AXc_hZ37VB;z4:2
+Z411 I`][JQ>a:KcEiR=@B[?<@T1
+Z412 VeFHMJ3k1MR4WT=aJ4z7WQ3
+R4
+R335
+R336
+R337
+Z413 L0 1704
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z414 n@nios_@nios_nios2_oci_dtrace
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_fifo
+Z415 !s100 RWX3Vz7:MIZE4Yga2PC^X1
+Z416 I:>52[Ud5Q99Ue4Z:fb;]L2
+Z417 V>YRe;G3:3F=8WYgJ86IRS3
+R4
+R335
+R336
+R337
+Z418 L0 1957
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z419 n@nios_@nios_nios2_oci_fifo
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_fifo_cnt_inc
+Z420 !s100 UDPdF4>QN_mE[:f;okRWE3
+Z421 I0VX_cPHJHJ3Yk9E=Mhi;R2
+Z422 V<`66HBdTFdbKHhTH_>39D3
+R4
+R335
+R336
+R337
+Z423 L0 1911
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z424 n@nios_@nios_nios2_oci_fifo_cnt_inc
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_fifo_wrptr_inc
+Z425 !s100 JTWX=A^B_9:a62`iK89Ad2
+Z426 Ill4QlXEDPjP;G<UH[3EGN2
+Z427 VSg;F2>[dnOHab6:77GCIl1
+R4
+R335
+R336
+R337
+Z428 L0 1869
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z429 n@nios_@nios_nios2_oci_fifo_wrptr_inc
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_im
+Z430 !s100 <NXaGOUf2Ogkaz]5BAR6O3
+Z431 IfGFBPe;?4@lW?=acMOOVV3
+Z432 VSF_@o3LnR4POb`CWbCN1i3
+R4
+R335
+R336
+R337
+Z433 L0 2526
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z434 n@nios_@nios_nios2_oci_im
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_itrace
+Z435 !s100 ]f:JAFlfEe_2IoGI7Ck?Y3
+Z436 IilQTB:Nj57CaXIZRoLZjJ3
+Z437 VcP8dPP3hX5d]VnG4HiPnK0
+R4
+R335
+R336
+R337
+Z438 L0 1314
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z439 n@nios_@nios_nios2_oci_itrace
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_pib
+Z440 !s100 JjV<@XQ1anJzc>4[z0U:c0
+Z441 IYAK71VU:;aZ@A`<_N]nk52
+Z442 V0Mo=zE?iU9Zh[hnf0F4C:1
+R4
+R335
+R336
+R337
+Z443 L0 2458
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z444 n@nios_@nios_nios2_oci_pib
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_td_mode
+Z445 !s100 WMd1<V74SYRAoUi^R9PIi2
+Z446 I`zJNY029W=:mG]A1GLWE^1
+Z447 VZ`bFk<:?Umhl]2SEOaTfH2
+R4
+R335
+R336
+R337
+Z448 L0 1637
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z449 n@nios_@nios_nios2_oci_td_mode
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_oci_xbrk
+Z450 !s100 X_PK4`U1Mm<@gicSInJK03
+Z451 I630H6LBZ5T_dB_?bA?`z_1
+Z452 VmJDTeMZiUe2NC9afMUl`k3
+R4
+R335
+R336
+R337
+Z453 L0 922
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z454 n@nios_@nios_nios2_oci_xbrk
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_ocimem
+Z455 !s100 FS_<NRRIG6EC^Ri7<PKN:2
+Z456 I7DW27N=SOJX0G_o?NMg<P0
+Z457 V76glJ_?=Dah:z6c:1K<Z01
+R4
+R335
+R336
+R337
+Z458 L0 355
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z459 n@nios_@nios_nios2_ocimem
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_nios2_performance_monitors
+Z460 !s100 Z:jWM^3^=PA>93nA<1]`d3
+Z461 IRU>;D?6[IF92<gCbDcCb83
+Z462 VC0:56=B1aO@ThXoNzeN3C1
+R4
+R335
+R336
+R337
+Z463 L0 2642
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z464 n@nios_@nios_nios2_performance_monitors
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_oci_test_bench
+Z465 !s100 nLngBFXedXmSlLWMjS@SQ2
+Z466 I1`IIn?>`X7G;A6Gac5YPP1
+Z467 VSgo?OJP]d[7i^Zca@H<?_0
+R4
+R335
+Z468 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_oci_test_bench.v
+Z469 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_oci_test_bench.v
+L0 21
+R8
+r1
+31
+Z470 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_oci_test_bench.v|
+R10
+R11
+Z471 n@nios_@nios_oci_test_bench
+Z472 !s108 1539279402.247000
+Z473 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_oci_test_bench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_ociram_sp_ram_module
+Z474 !s100 >Ocl6Ym86WbXikMb1h<kl3
+Z475 I3i26`I3n_IOCoLSazEAEi3
+Z476 VzfgEI?b96=ETS0i@]ii6W2
+R4
+R335
+R336
+R337
+Z477 L0 292
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z478 n@nios_@nios_ociram_sp_ram_module
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_register_bank_a_module
+Z479 !s100 5MkKk_MNi>h@^QCeJ:LIV1
+Z480 I4z2eW0lQNiEA3mFQB;?Wz2
+Z481 VSZfR1@FFReDi4Y`ahUiC31
+R4
+R335
+R336
+R337
+L0 21
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z482 n@nios_@nios_register_bank_a_module
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_register_bank_b_module
+Z483 !s100 aNm8llG93zFimMGQcPI4[1
+Z484 IOFMa8X3=6::I:cn:USJcd1
+Z485 V7@i2X?44FWF_;3jQn<Ki[2
+R4
+R335
+R336
+R337
+L0 86
+R8
+r1
+31
+R339
+R340
+R341
+R10
+R11
+Z486 n@nios_@nios_register_bank_b_module
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_Nios_test_bench
+Z487 !s100 oe7kQ8PH51b5JJT;QD@RC3
+Z488 Iz^Cf@LAC8caX9lTdgN9`02
+Z489 V`gY7IX7Qb4X?^P4A5Kf0Y2
+R4
+R335
+Z490 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_test_bench.v
+Z491 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_test_bench.v
+L0 21
+R8
+r1
+31
+Z492 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_test_bench.v|
+R10
+R11
+Z493 n@nios_@nios_test_bench
+Z494 !s108 1539279402.739000
+Z495 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_Nios_test_bench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNios_pushbutton_2
+Z496 !s100 EG[n:>c[gN15]@:RRc3YI0
+Z497 IME4_m27Sfz=QH2R1BXHFT3
+Z498 VU<JaP=aHEX5AZ<nNkSElB3
+R4
+R17
+Z499 8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_pushbutton_2.v
+Z500 FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_pushbutton_2.v
+L0 21
+R8
+r1
+31
+Z501 !s90 -reportprogress|300|-vlog01compat|-work|Nios|+incdir+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_pushbutton_2.v|
+R10
+R11
+Z502 n@nios_pushbutton_2
+Z503 !s108 1539279393.495000
+Z504 !s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/Nios_pushbutton_2.v|
+!i10b 1
+!s85 0
+!s101 -O0

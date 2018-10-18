@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\project\simulation\modelsim
+vlcd_driver
+!i10b 1
+!s100 0GCGS0CDhXnVOPa:@z;W42
+IVaQdfY;e1YWog;CzTb`nO1
+VjR;JGK=VeifkcTWSZDmK72
+Z1 dC:\Users\Gabriel\Documents\GitHub\PBL-SD-2018.2-1\project\simulation\modelsim
+w1538606766
+8C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v
+FC:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v
+L0 2
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1539218040.499000
+!s107 C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v|
+!s101 -O0
+o-work work -O0

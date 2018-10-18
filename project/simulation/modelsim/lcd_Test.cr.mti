@@ -1,0 +1,8 @@
+C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v {1 {vlog -work work C:/Users/Gabriel/Documents/GitHub/PBL-SD-2018.2-1/project/Nios/synthesis/submodules/lcd_driver.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lcd_driver
+
+Top level modules:
+	lcd_driver
+
+} {} {}}
